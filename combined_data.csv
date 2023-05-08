@@ -1,0 +1,1307 @@
+image_id,age_approx,benign_malignant,diagnosis,patient_id,sex,id
+ISIC_6006602.JPG,65.0,indeterminate/benign,atypical melanocytic proliferation,IP_3462372,female,0
+ISIC_0282371.JPG,70.0,indeterminate/benign,atypical melanocytic proliferation,IP_6200159,female,1
+ISIC_4201157.JPG,75.0,indeterminate/benign,atypical melanocytic proliferation,IP_9429205,male,2
+ISIC_9286502.JPG,65.0,indeterminate/benign,atypical melanocytic proliferation,IP_9274667,female,3
+ISIC_6009572.JPG,65.0,indeterminate/benign,atypical melanocytic proliferation,IP_9274667,female,4
+ISIC_7466734.JPG,50.0,indeterminate/benign,atypical melanocytic proliferation,IP_5440286,female,5
+ISIC_7976038.JPG,80.0,indeterminate/benign,atypical melanocytic proliferation,IP_5852035,male,6
+ISIC_5946133.JPG,65.0,indeterminate/benign,atypical melanocytic proliferation,IP_3211976,male,7
+ISIC_9430252.JPG,65.0,indeterminate/benign,atypical melanocytic proliferation,IP_1777466,male,8
+ISIC_9382025.JPG,85.0,indeterminate/benign,atypical melanocytic proliferation,IP_7354866,female,9
+ISIC_7035975.JPG,85.0,indeterminate/benign,atypical melanocytic proliferation,IP_7354866,female,10
+ISIC_3561464.JPG,80.0,benign,atypical melanocytic proliferation,IP_8447427,female,11
+ISIC_6994680.JPG,45.0,indeterminate/benign,atypical melanocytic proliferation,IP_5900484,female,12
+ISIC_5943091.JPG,45.0,indeterminate/benign,atypical melanocytic proliferation,IP_8746291,male,13
+ISIC_6958713.JPG,70.0,indeterminate/benign,atypical melanocytic proliferation,IP_3510706,female,14
+ISIC_0672006.JPG,80.0,indeterminate/benign,atypical melanocytic proliferation,IP_4297780,male,15
+ISIC_0555848.JPG,50.0,indeterminate/benign,atypical melanocytic proliferation,IP_9442934,female,16
+ISIC_0435215.JPG,65.0,indeterminate/benign,atypical melanocytic proliferation,IP_5532748,male,17
+ISIC_1948710.JPG,50.0,benign,atypical melanocytic proliferation,IP_4783194,female,18
+ISIC_0206604.JPG,65.0,indeterminate/benign,atypical melanocytic proliferation,IP_4597513,male,19
+ISIC_9569039.JPG,60.0,indeterminate/benign,atypical melanocytic proliferation,IP_8881458,male,20
+ISIC_8289408.JPG,80.0,indeterminate/benign,atypical melanocytic proliferation,IP_0464165,female,21
+ISIC_7856735.JPG,45.0,indeterminate/benign,atypical melanocytic proliferation,IP_3265003,female,22
+ISIC_9171071.JPG,50.0,indeterminate/benign,atypical melanocytic proliferation,IP_2267663,female,23
+ISIC_1875440.JPG,55.0,benign,atypical melanocytic proliferation,IP_8093347,female,24
+ISIC_5086554.JPG,45.0,benign,atypical melanocytic proliferation,IP_4889048,female,25
+ISIC_5108776.JPG,60.0,indeterminate/benign,atypical melanocytic proliferation,IP_0395589,male,26
+ISIC_4619708.JPG,65.0,benign,atypical melanocytic proliferation,IP_2279622,female,27
+ISIC_0557560.JPG,65.0,indeterminate,atypical melanocytic proliferation,,female,28
+ISIC_4985074.JPG,65.0,indeterminate,atypical melanocytic proliferation,,male,29
+ISIC_1548946.JPG,30.0,indeterminate,atypical melanocytic proliferation,,female,30
+ISIC_0673811.JPG,65.0,indeterminate,atypical melanocytic proliferation,,male,31
+ISIC_1328709.JPG,40.0,indeterminate,atypical melanocytic proliferation,,male,32
+ISIC_9389785.JPG,55.0,indeterminate,atypical melanocytic proliferation,,male,33
+ISIC_6172309.JPG,55.0,indeterminate,atypical melanocytic proliferation,,female,34
+ISIC_9226804.JPG,45.0,indeterminate,atypical melanocytic proliferation,,male,35
+ISIC_8399373.JPG,50.0,indeterminate,atypical melanocytic proliferation,,male,36
+ISIC_3339253.JPG,70.0,indeterminate,atypical melanocytic proliferation,,female,37
+ISIC_4987653.JPG,55.0,indeterminate,atypical melanocytic proliferation,,female,38
+ISIC_9223727.JPG,50.0,benign,atypical melanocytic proliferation,,female,39
+ISIC_7631044.JPG,25.0,benign,atypical melanocytic proliferation,,female,40
+ISIC_6012141.JPG,70.0,indeterminate,atypical melanocytic proliferation,,male,41
+ISIC_2690101.JPG,85.0,indeterminate,atypical melanocytic proliferation,,male,42
+ISIC_7673152.JPG,70.0,indeterminate,atypical melanocytic proliferation,,male,43
+ISIC_7664219.JPG,60.0,indeterminate,atypical melanocytic proliferation,,male,44
+ISIC_3107586.JPG,65.0,indeterminate,atypical melanocytic proliferation,,female,45
+ISIC_8356405.JPG,55.0,benign,atypical melanocytic proliferation,,female,46
+ISIC_9767513.JPG,70.0,benign,atypical melanocytic proliferation,,male,47
+ISIC_5256455.JPG,75.0,indeterminate,atypical melanocytic proliferation,,male,48
+ISIC_3182805.JPG,85.0,indeterminate,atypical melanocytic proliferation,,male,49
+ISIC_4997067.JPG,65.0,indeterminate,atypical melanocytic proliferation,,male,50
+ISIC_3758803.JPG,65.0,indeterminate,atypical melanocytic proliferation,,male,51
+ISIC_0205337.JPG,25.0,indeterminate,atypical melanocytic proliferation,,female,52
+ISIC_8205812.JPG,25.0,indeterminate,atypical melanocytic proliferation,,female,53
+ISIC_8513151.JPG,65.0,indeterminate,atypical melanocytic proliferation,,male,54
+ISIC_8933698.JPG,65.0,benign,atypical melanocytic proliferation,,male,55
+ISIC_8917575.JPG,65.0,benign,atypical melanocytic proliferation,,female,56
+ISIC_2476454.JPG,65.0,indeterminate,atypical melanocytic proliferation,,female,57
+ISIC_0235971.JPG,65.0,benign,atypical melanocytic proliferation,,female,58
+ISIC_7529314.JPG,60.0,benign,atypical melanocytic proliferation,,male,59
+ISIC_7485852.JPG,50.0,benign,atypical melanocytic proliferation,,female,60
+ISIC_1919342.JPG,65.0,indeterminate,atypical melanocytic proliferation,,male,61
+ISIC_7427536.JPG,80.0,indeterminate,atypical melanocytic proliferation,,female,62
+ISIC_0933158.JPG,85.0,benign,atypical melanocytic proliferation,,female,63
+ISIC_8863818.JPG,55.0,benign,atypical melanocytic proliferation,,female,64
+ISIC_3897960.JPG,85.0,benign,atypical melanocytic proliferation,,female,65
+ISIC_7180218.JPG,40.0,indeterminate,atypical melanocytic proliferation,,male,66
+ISIC_9784994.JPG,55.0,benign,atypical melanocytic proliferation,,female,67
+ISIC_5477137.JPG,60.0,indeterminate,atypical melanocytic proliferation,,male,68
+ISIC_9202586.JPG,80.0,indeterminate,atypical melanocytic proliferation,,male,69
+ISIC_4891433.JPG,60.0,indeterminate,atypical melanocytic proliferation,,female,70
+ISIC_8839489.JPG,35.0,indeterminate,atypical melanocytic proliferation,,male,71
+ISIC_1855530.JPG,70.0,indeterminate,atypical melanocytic proliferation,,male,72
+ISIC_7012810.JPG,65.0,indeterminate,atypical melanocytic proliferation,,female,73
+ISIC_7747636.JPG,60.0,benign,atypical melanocytic proliferation,,female,74
+ISIC_1330439.JPG,80.0,benign,atypical melanocytic proliferation,,female,75
+ISIC_4407580.JPG,55.0,indeterminate,atypical melanocytic proliferation,,male,76
+ISIC_7407079.JPG,45.0,benign,atypical melanocytic proliferation,,female,77
+ISIC_7938135.JPG,75.0,indeterminate,atypical melanocytic proliferation,,female,78
+ISIC_2975850.JPG,50.0,indeterminate,atypical melanocytic proliferation,,male,79
+ISIC_0290144.JPG,65.0,benign,atypical melanocytic proliferation,,male,80
+ISIC_0593159.JPG,65.0,benign,atypical melanocytic proliferation,,male,81
+ISIC_9592626.JPG,30.0,indeterminate,atypical melanocytic proliferation,,male,82
+ISIC_2141209.JPG,75.0,benign,atypical melanocytic proliferation,,male,83
+ISIC_3900977.JPG,45.0,indeterminate,atypical melanocytic proliferation,,female,84
+ISIC_4225838.JPG,55.0,benign,atypical melanocytic proliferation,IP_9124285,male,85
+ISIC_0011418.JPG,75.0,benign,atypical melanocytic proliferation,,male,86
+ISIC_0011417.JPG,75.0,benign,atypical melanocytic proliferation,,male,87
+ISIC_0011355.JPG,85.0,indeterminate,atypical melanocytic proliferation,,female,88
+ISIC_0011332.JPG,50.0,indeterminate,atypical melanocytic proliferation,,male,89
+ISIC_0011307.JPG,35.0,indeterminate,atypical melanocytic proliferation,,male,90
+ISIC_0011054.JPG,40.0,indeterminate,atypical melanocytic proliferation,,male,91
+ISIC_0011011.JPG,40.0,indeterminate,atypical melanocytic proliferation,,female,92
+ISIC_0010713.JPG,25.0,indeterminate/malignant,atypical melanocytic proliferation,,female,93
+ISIC_0010454.JPG,55.0,indeterminate/malignant,atypical melanocytic proliferation,,female,94
+ISIC_0010325.JPG,85.0,indeterminate,atypical melanocytic proliferation,,male,95
+ISIC_0010083.JPG,70.0,indeterminate,atypical melanocytic proliferation,,female,96
+ISIC_0010027.JPG,40.0,indeterminate,atypical melanocytic proliferation,,female,97
+ISIC_0009959.JPG,50.0,indeterminate,atypical melanocytic proliferation,,female,98
+ISIC_6736065.JPG,70.0,malignant,squamous cell carcinoma,IP_8382257,female,99
+ISIC_9211210.JPG,70.0,malignant,squamous cell carcinoma,IP_8382257,female,100
+ISIC_2035987.JPG,55.0,malignant,squamous cell carcinoma,IP_3739383,female,101
+ISIC_7439706.JPG,55.0,malignant,squamous cell carcinoma,IP_3739383,female,102
+ISIC_8095537.JPG,75.0,malignant,squamous cell carcinoma,IP_1418688,female,103
+ISIC_3749849.JPG,75.0,malignant,squamous cell carcinoma,IP_1418688,female,104
+ISIC_5940534.JPG,75.0,malignant,squamous cell carcinoma,IP_1418688,female,105
+ISIC_1241693.JPG,75.0,malignant,squamous cell carcinoma,IP_1418688,female,106
+ISIC_5848879.JPG,75.0,malignant,squamous cell carcinoma,IP_0093557,female,107
+ISIC_5746105.JPG,75.0,malignant,squamous cell carcinoma,IP_0093557,female,108
+ISIC_2729912.JPG,80.0,malignant,squamous cell carcinoma,IP_7872950,male,109
+ISIC_7560813.JPG,80.0,malignant,squamous cell carcinoma,IP_7872950,male,110
+ISIC_8053508.JPG,85.0,malignant,squamous cell carcinoma,IP_7800510,female,111
+ISIC_9476229.JPG,85.0,malignant,squamous cell carcinoma,IP_7800510,female,112
+ISIC_3342666.JPG,65.0,malignant,squamous cell carcinoma,IP_6579706,male,113
+ISIC_9200533.JPG,65.0,malignant,squamous cell carcinoma,IP_6579706,male,114
+ISIC_4489445.JPG,70.0,malignant,squamous cell carcinoma,IP_7923120,male,115
+ISIC_3932849.JPG,70.0,malignant,squamous cell carcinoma,IP_7923120,male,116
+ISIC_5784016.JPG,70.0,malignant,squamous cell carcinoma,IP_8369422,female,117
+ISIC_9706840.JPG,70.0,malignant,squamous cell carcinoma,IP_8369422,female,118
+ISIC_6824249.JPG,70.0,malignant,squamous cell carcinoma,IP_8369422,female,119
+ISIC_9683541.JPG,75.0,malignant,squamous cell carcinoma,IP_1729411,male,120
+ISIC_0579124.JPG,75.0,malignant,squamous cell carcinoma,IP_1729411,male,121
+ISIC_3498622.JPG,70.0,malignant,squamous cell carcinoma,IP_8388966,male,122
+ISIC_2031479.JPG,70.0,malignant,squamous cell carcinoma,IP_8388966,male,123
+ISIC_5401158.JPG,70.0,malignant,squamous cell carcinoma,IP_4307149,female,124
+ISIC_0521708.JPG,70.0,malignant,squamous cell carcinoma,IP_4307149,female,125
+ISIC_6653614.JPG,70.0,malignant,squamous cell carcinoma,IP_4307149,female,126
+ISIC_2136197.JPG,80.0,malignant,squamous cell carcinoma,IP_0221369,male,127
+ISIC_2003612.JPG,80.0,malignant,squamous cell carcinoma,IP_0221369,male,128
+ISIC_9393700.JPG,85.0,malignant,squamous cell carcinoma,IP_7442897,female,129
+ISIC_5227868.JPG,85.0,malignant,squamous cell carcinoma,IP_7442897,female,130
+ISIC_3332799.JPG,70.0,malignant,squamous cell carcinoma,IP_6005497,female,131
+ISIC_1640110.JPG,80.0,malignant,squamous cell carcinoma,IP_3150219,male,132
+ISIC_2710069.JPG,80.0,malignant,squamous cell carcinoma,IP_3150219,male,133
+ISIC_5141599.JPG,80.0,malignant,squamous cell carcinoma,IP_9155557,female,134
+ISIC_1388529.JPG,80.0,malignant,squamous cell carcinoma,IP_9155557,female,135
+ISIC_3867890.JPG,80.0,malignant,squamous cell carcinoma,IP_5828031,male,136
+ISIC_7474602.JPG,80.0,malignant,squamous cell carcinoma,IP_5828031,male,137
+ISIC_4918794.JPG,80.0,malignant,squamous cell carcinoma,IP_5828031,male,138
+ISIC_9138658.JPG,80.0,malignant,squamous cell carcinoma,IP_5828031,male,139
+ISIC_3426358.JPG,85.0,malignant,squamous cell carcinoma,IP_2967644,female,140
+ISIC_4185946.JPG,85.0,malignant,squamous cell carcinoma,IP_2967644,female,141
+ISIC_3289563.JPG,85.0,malignant,squamous cell carcinoma,IP_1117498,male,142
+ISIC_0342851.JPG,85.0,malignant,squamous cell carcinoma,IP_1117498,male,143
+ISIC_2387381.JPG,70.0,malignant,squamous cell carcinoma,IP_1566368,male,144
+ISIC_0580759.JPG,65.0,malignant,squamous cell carcinoma,IP_7256360,male,145
+ISIC_0377055.JPG,65.0,malignant,squamous cell carcinoma,IP_7256360,male,146
+ISIC_3471170.JPG,60.0,malignant,squamous cell carcinoma,IP_4641203,male,147
+ISIC_3570858.JPG,60.0,malignant,squamous cell carcinoma,IP_4641203,male,148
+ISIC_0765095.JPG,85.0,malignant,squamous cell carcinoma,IP_3451310,male,149
+ISIC_1480519.JPG,85.0,malignant,squamous cell carcinoma,IP_3451310,male,150
+ISIC_0437776.JPG,85.0,malignant,squamous cell carcinoma,IP_3451310,male,151
+ISIC_4970724.JPG,85.0,malignant,squamous cell carcinoma,IP_7884622,male,152
+ISIC_0501192.JPG,85.0,malignant,squamous cell carcinoma,IP_7884622,male,153
+ISIC_6961311.JPG,85.0,malignant,squamous cell carcinoma,IP_6872677,female,154
+ISIC_5086151.JPG,85.0,malignant,squamous cell carcinoma,IP_6872677,female,155
+ISIC_8111280.JPG,55.0,malignant,squamous cell carcinoma,IP_5701997,female,156
+ISIC_9464094.JPG,55.0,malignant,squamous cell carcinoma,IP_5701997,female,157
+ISIC_0408926.JPG,65.0,malignant,squamous cell carcinoma,IP_9854686,male,158
+ISIC_2826889.JPG,55.0,malignant,squamous cell carcinoma,IP_2958522,male,159
+ISIC_3424187.JPG,55.0,malignant,squamous cell carcinoma,IP_1773325,female,160
+ISIC_6119111.JPG,55.0,malignant,squamous cell carcinoma,IP_1773325,female,161
+ISIC_4035478.JPG,60.0,malignant,squamous cell carcinoma,IP_3297302,female,162
+ISIC_7038061.JPG,75.0,malignant,squamous cell carcinoma,IP_7735544,female,163
+ISIC_4910630.JPG,85.0,malignant,squamous cell carcinoma,IP_9667170,male,164
+ISIC_7490806.JPG,85.0,malignant,squamous cell carcinoma,IP_8541253,male,165
+ISIC_5847539.JPG,85.0,malignant,squamous cell carcinoma,IP_6792187,female,166
+ISIC_8536717.JPG,75.0,malignant,squamous cell carcinoma,IP_1366489,female,167
+ISIC_7964676.JPG,85.0,malignant,squamous cell carcinoma,IP_0013793,male,168
+ISIC_4875503.JPG,80.0,malignant,squamous cell carcinoma,IP_3315006,female,169
+ISIC_7169848.JPG,80.0,malignant,squamous cell carcinoma,IP_3315006,female,170
+ISIC_1997620.JPG,80.0,malignant,squamous cell carcinoma,IP_0446005,male,171
+ISIC_4029548.JPG,85.0,malignant,squamous cell carcinoma,IP_3525266,male,172
+ISIC_5373632.JPG,85.0,malignant,squamous cell carcinoma,IP_2409824,female,173
+ISIC_6524286.JPG,85.0,malignant,squamous cell carcinoma,IP_0939434,female,174
+ISIC_5604408.JPG,75.0,malignant,squamous cell carcinoma,IP_4817230,female,175
+ISIC_1521119.JPG,75.0,malignant,squamous cell carcinoma,IP_4817230,female,176
+ISIC_2762326.JPG,75.0,malignant,squamous cell carcinoma,IP_4817230,female,177
+ISIC_6463451.JPG,75.0,malignant,squamous cell carcinoma,IP_4817230,female,178
+ISIC_1999826.JPG,35.0,malignant,squamous cell carcinoma,IP_7789397,female,179
+ISIC_0224810.JPG,35.0,malignant,squamous cell carcinoma,IP_7789397,female,180
+ISIC_7465865.JPG,70.0,malignant,squamous cell carcinoma,IP_9998114,male,181
+ISIC_0289994.JPG,70.0,malignant,squamous cell carcinoma,IP_9998114,male,182
+ISIC_8902611.JPG,80.0,malignant,squamous cell carcinoma,IP_6937340,male,183
+ISIC_9759583.JPG,55.0,malignant,squamous cell carcinoma,IP_0041636,female,184
+ISIC_7752332.JPG,85.0,malignant,squamous cell carcinoma,IP_5112313,female,185
+ISIC_7903695.JPG,70.0,malignant,squamous cell carcinoma,IP_5664551,male,186
+ISIC_5140276.JPG,70.0,malignant,squamous cell carcinoma,IP_0939358,female,187
+ISIC_6998964.JPG,85.0,malignant,squamous cell carcinoma,IP_5796068,male,188
+ISIC_5634599.JPG,85.0,malignant,squamous cell carcinoma,IP_0823466,female,189
+ISIC_2869797.JPG,75.0,malignant,squamous cell carcinoma,IP_1219162,female,190
+ISIC_8220302.JPG,75.0,malignant,squamous cell carcinoma,IP_1219162,female,191
+ISIC_4932163.JPG,85.0,malignant,squamous cell carcinoma,IP_8408163,male,192
+ISIC_0900341.JPG,85.0,malignant,squamous cell carcinoma,IP_8408163,male,193
+ISIC_9579068.JPG,85.0,malignant,squamous cell carcinoma,IP_8408163,male,194
+ISIC_7738029.JPG,80.0,malignant,squamous cell carcinoma,IP_2132492,male,195
+ISIC_8327495.JPG,75.0,malignant,squamous cell carcinoma,IP_5722309,male,196
+ISIC_6901614.JPG,85.0,malignant,squamous cell carcinoma,IP_2650374,male,197
+ISIC_3868876.JPG,85.0,malignant,squamous cell carcinoma,IP_2650374,male,198
+ISIC_3007796.JPG,75.0,benign,vascular lesion,IP_2359644,male,199
+ISIC_4207454.JPG,75.0,benign,vascular lesion,IP_2359644,male,200
+ISIC_3373047.JPG,20.0,benign,vascular lesion,IP_0912178,female,201
+ISIC_4798806.JPG,40.0,benign,vascular lesion,IP_3028994,male,202
+ISIC_6563537.JPG,50.0,benign,vascular lesion,IP_6375518,male,203
+ISIC_3121700.JPG,70.0,benign,vascular lesion,IP_8519697,male,204
+ISIC_1538558.JPG,35.0,benign,vascular lesion,IP_8075842,female,205
+ISIC_9307961.JPG,35.0,benign,vascular lesion,IP_8075842,female,206
+ISIC_0469469.JPG,35.0,benign,vascular lesion,IP_8075842,female,207
+ISIC_7899998.JPG,65.0,benign,vascular lesion,IP_6184736,male,208
+ISIC_0749272.JPG,65.0,benign,vascular lesion,IP_6184736,male,209
+ISIC_5058915.JPG,65.0,benign,vascular lesion,IP_6184736,male,210
+ISIC_1293502.JPG,65.0,benign,vascular lesion,IP_6184736,male,211
+ISIC_6546922.JPG,65.0,benign,vascular lesion,IP_6184736,male,212
+ISIC_3823228.JPG,50.0,benign,vascular lesion,IP_4278708,male,213
+ISIC_2414214.JPG,50.0,benign,vascular lesion,IP_4278708,male,214
+ISIC_0348670.JPG,40.0,benign,vascular lesion,IP_7551030,male,215
+ISIC_0797749.JPG,70.0,benign,vascular lesion,IP_8694186,male,216
+ISIC_3245953.JPG,70.0,benign,vascular lesion,IP_8694186,male,217
+ISIC_1659879.JPG,70.0,benign,vascular lesion,IP_8694186,male,218
+ISIC_8521370.JPG,70.0,benign,vascular lesion,IP_8694186,male,219
+ISIC_0107741.JPG,70.0,benign,vascular lesion,IP_0276872,male,220
+ISIC_7215728.JPG,70.0,benign,vascular lesion,IP_0276872,male,221
+ISIC_2870496.JPG,65.0,benign,vascular lesion,IP_7144003,female,222
+ISIC_4258119.JPG,60.0,benign,vascular lesion,IP_3297302,female,223
+ISIC_0784936.JPG,75.0,benign,vascular lesion,IP_8107767,male,224
+ISIC_9729425.JPG,75.0,benign,vascular lesion,IP_8107767,male,225
+ISIC_2596867.JPG,75.0,benign,vascular lesion,IP_8107767,male,226
+ISIC_0477738.JPG,75.0,benign,vascular lesion,IP_8107767,male,227
+ISIC_3388616.JPG,75.0,benign,vascular lesion,IP_8107767,male,228
+ISIC_5916445.JPG,75.0,benign,vascular lesion,IP_8107767,male,229
+ISIC_2750923.JPG,80.0,benign,vascular lesion,IP_0214625,male,230
+ISIC_4208886.JPG,80.0,benign,vascular lesion,IP_0214625,male,231
+ISIC_2618460.JPG,75.0,benign,vascular lesion,IP_5193650,female,232
+ISIC_1603017.JPG,85.0,benign,vascular lesion,IP_2650374,male,233
+ISIC_2767271.JPG,85.0,benign,vascular lesion,IP_2650374,male,234
+ISIC_0841460.JPG,70.0,benign,vascular lesion,IP_2538639,male,235
+ISIC_1195993.JPG,70.0,benign,vascular lesion,IP_2538639,male,236
+ISIC_8941935.JPG,70.0,benign,vascular lesion,IP_2538639,male,237
+ISIC_4100884.JPG,70.0,benign,vascular lesion,IP_2538639,male,238
+ISIC_4182862.JPG,65.0,benign,vascular lesion,IP_9180971,male,239
+ISIC_2719332.JPG,55.0,benign,vascular lesion,IP_7506563,male,240
+ISIC_9995847.JPG,75.0,benign,vascular lesion,IP_8538177,female,241
+ISIC_3235777.JPG,65.0,benign,vascular lesion,IP_8822719,male,242
+ISIC_9678073.JPG,45.0,benign,vascular lesion,IP_7040685,male,243
+ISIC_7392005.JPG,30.0,benign,vascular lesion,IP_5809978,male,244
+ISIC_5764331.JPG,65.0,benign,vascular lesion,IP_9326183,female,245
+ISIC_6164036.JPG,55.0,benign,vascular lesion,IP_1396436,female,246
+ISIC_8841053.JPG,45.0,benign,vascular lesion,IP_4595006,female,247
+ISIC_5535303.JPG,80.0,benign,vascular lesion,IP_2436647,female,248
+ISIC_3569199.JPG,65.0,benign,vascular lesion,IP_9326183,female,249
+ISIC_7149838.JPG,60.0,benign,vascular lesion,,female,250
+ISIC_3630349.JPG,55.0,benign,vascular lesion,,female,251
+ISIC_5736971.JPG,70.0,benign,vascular lesion,,male,252
+ISIC_1257579.JPG,70.0,benign,vascular lesion,,male,253
+ISIC_0428084.JPG,55.0,benign,vascular lesion,,male,254
+ISIC_5916208.JPG,65.0,benign,vascular lesion,,male,255
+ISIC_0073110.JPG,35.0,,vascular lesion,,male,256
+ISIC_0073031.JPG,15.0,,vascular lesion,,female,257
+ISIC_0073012.JPG,60.0,,vascular lesion,,female,258
+ISIC_0072964.JPG,30.0,,vascular lesion,,male,259
+ISIC_0072937.JPG,60.0,,vascular lesion,,female,260
+ISIC_0072919.JPG,40.0,,vascular lesion,,male,261
+ISIC_0072651.JPG,40.0,,vascular lesion,,male,262
+ISIC_0072479.JPG,45.0,,vascular lesion,,male,263
+ISIC_0072430.JPG,70.0,,vascular lesion,,male,264
+ISIC_0072012.JPG,35.0,,vascular lesion,,male,265
+ISIC_0071912.JPG,75.0,,vascular lesion,,male,266
+ISIC_0071787.JPG,40.0,,vascular lesion,,female,267
+ISIC_0071557.JPG,70.0,,vascular lesion,,male,268
+ISIC_0071543.JPG,40.0,,vascular lesion,,female,269
+ISIC_0071383.JPG,70.0,,vascular lesion,,female,270
+ISIC_0071337.JPG,50.0,,vascular lesion,,female,271
+ISIC_0071298.JPG,70.0,,vascular lesion,,male,272
+ISIC_0071267.JPG,75.0,,vascular lesion,,male,273
+ISIC_0071155.JPG,70.0,,vascular lesion,,female,274
+ISIC_0071044.JPG,40.0,,vascular lesion,,female,275
+ISIC_0071024.JPG,75.0,,vascular lesion,,male,276
+ISIC_0070904.JPG,75.0,,vascular lesion,,male,277
+ISIC_0070899.JPG,55.0,,vascular lesion,,female,278
+ISIC_0070723.JPG,75.0,,vascular lesion,,male,279
+ISIC_0070716.JPG,75.0,,vascular lesion,,male,280
+ISIC_0070703.JPG,40.0,,vascular lesion,,male,281
+ISIC_0070616.JPG,60.0,,vascular lesion,,female,282
+ISIC_0070526.JPG,50.0,,vascular lesion,,female,283
+ISIC_0070356.JPG,75.0,,vascular lesion,,male,284
+ISIC_0070113.JPG,85.0,,vascular lesion,,male,285
+ISIC_0070103.JPG,65.0,,vascular lesion,,female,286
+ISIC_0069242.JPG,40.0,,vascular lesion,,female,287
+ISIC_0068877.JPG,70.0,,vascular lesion,,male,288
+ISIC_0068870.JPG,35.0,,vascular lesion,,male,289
+ISIC_0068484.JPG,40.0,,vascular lesion,,female,290
+ISIC_0068387.JPG,35.0,,vascular lesion,,male,291
+ISIC_0068281.JPG,75.0,,vascular lesion,,male,292
+ISIC_0067807.JPG,75.0,,vascular lesion,,male,293
+ISIC_0067382.JPG,75.0,,vascular lesion,,male,294
+ISIC_0067355.JPG,70.0,,vascular lesion,,male,295
+ISIC_0067336.JPG,40.0,,vascular lesion,,female,296
+ISIC_0067285.JPG,40.0,,vascular lesion,,female,297
+ISIC_0067166.JPG,75.0,,vascular lesion,,male,298
+ISIC_2704825.JPG,75.0,malignant,basal cell carcinoma,IP_8947694,female,299
+ISIC_6800726.JPG,75.0,malignant,basal cell carcinoma,IP_8947694,female,300
+ISIC_8788296.JPG,85.0,malignant,basal cell carcinoma,IP_4836760,male,301
+ISIC_3098914.JPG,85.0,malignant,basal cell carcinoma,IP_1173614,female,302
+ISIC_6263512.JPG,85.0,malignant,basal cell carcinoma,IP_1173614,female,303
+ISIC_5911355.JPG,75.0,malignant,basal cell carcinoma,IP_8624681,male,304
+ISIC_1497097.JPG,75.0,malignant,basal cell carcinoma,IP_8624681,male,305
+ISIC_0542742.JPG,65.0,malignant,basal cell carcinoma,IP_9116795,female,306
+ISIC_1425492.JPG,65.0,malignant,basal cell carcinoma,IP_9116795,female,307
+ISIC_5449807.JPG,75.0,malignant,basal cell carcinoma,IP_4393692,male,308
+ISIC_1907579.JPG,75.0,malignant,basal cell carcinoma,IP_4393692,male,309
+ISIC_0830433.JPG,85.0,malignant,basal cell carcinoma,IP_6444963,male,310
+ISIC_0413031.JPG,85.0,malignant,basal cell carcinoma,IP_6444963,male,311
+ISIC_8329844.JPG,70.0,malignant,basal cell carcinoma,IP_5091395,male,312
+ISIC_8880006.JPG,70.0,malignant,basal cell carcinoma,IP_5091395,male,313
+ISIC_8540289.JPG,70.0,malignant,basal cell carcinoma,IP_5091395,male,314
+ISIC_3149813.JPG,55.0,malignant,basal cell carcinoma,IP_6819963,female,315
+ISIC_2317385.JPG,55.0,malignant,basal cell carcinoma,IP_6819963,female,316
+ISIC_8495716.JPG,35.0,malignant,basal cell carcinoma,IP_9002218,female,317
+ISIC_6119596.JPG,35.0,malignant,basal cell carcinoma,IP_9002218,female,318
+ISIC_8803373.JPG,65.0,malignant,basal cell carcinoma,IP_3388406,male,319
+ISIC_8384844.JPG,65.0,malignant,basal cell carcinoma,IP_3388406,male,320
+ISIC_0133773.JPG,80.0,malignant,basal cell carcinoma,IP_6640998,female,321
+ISIC_5794546.JPG,80.0,malignant,basal cell carcinoma,IP_6640998,female,322
+ISIC_5086718.JPG,85.0,malignant,basal cell carcinoma,IP_5924149,female,323
+ISIC_5521474.JPG,85.0,malignant,basal cell carcinoma,IP_5924149,female,324
+ISIC_6253779.JPG,70.0,malignant,basal cell carcinoma,IP_7708591,male,325
+ISIC_0330896.JPG,85.0,malignant,basal cell carcinoma,IP_2844264,female,326
+ISIC_6689070.JPG,65.0,malignant,basal cell carcinoma,IP_3342129,female,327
+ISIC_3073256.JPG,65.0,malignant,basal cell carcinoma,IP_3342129,female,328
+ISIC_0133379.JPG,65.0,malignant,basal cell carcinoma,IP_3342129,female,329
+ISIC_9078177.JPG,65.0,malignant,basal cell carcinoma,IP_3342129,female,330
+ISIC_1831970.JPG,50.0,malignant,basal cell carcinoma,IP_4253242,female,331
+ISIC_7481097.JPG,50.0,malignant,basal cell carcinoma,IP_4253242,female,332
+ISIC_6069561.JPG,80.0,malignant,basal cell carcinoma,IP_7872950,male,333
+ISIC_8544566.JPG,70.0,malignant,basal cell carcinoma,IP_2175925,male,334
+ISIC_4679927.JPG,70.0,malignant,basal cell carcinoma,IP_2175925,male,335
+ISIC_5408518.JPG,65.0,malignant,basal cell carcinoma,IP_6579706,male,336
+ISIC_5164664.JPG,65.0,malignant,basal cell carcinoma,IP_6579706,male,337
+ISIC_1341581.JPG,80.0,malignant,basal cell carcinoma,IP_5048300,male,338
+ISIC_4462757.JPG,80.0,malignant,basal cell carcinoma,IP_5048300,male,339
+ISIC_9074861.JPG,50.0,malignant,basal cell carcinoma,IP_4079884,female,340
+ISIC_6713497.JPG,50.0,malignant,basal cell carcinoma,IP_0936356,female,341
+ISIC_3069438.JPG,75.0,malignant,basal cell carcinoma,IP_5398777,male,342
+ISIC_7597095.JPG,75.0,malignant,basal cell carcinoma,IP_5398777,male,343
+ISIC_2228720.JPG,75.0,malignant,basal cell carcinoma,IP_5398777,male,344
+ISIC_7739038.JPG,75.0,malignant,basal cell carcinoma,IP_5398777,male,345
+ISIC_6652468.JPG,70.0,malignant,basal cell carcinoma,IP_7923120,male,346
+ISIC_8035370.JPG,70.0,malignant,basal cell carcinoma,IP_7923120,male,347
+ISIC_0647125.JPG,70.0,malignant,basal cell carcinoma,IP_7923120,male,348
+ISIC_7934367.JPG,70.0,malignant,basal cell carcinoma,IP_7923120,male,349
+ISIC_5815174.JPG,85.0,malignant,basal cell carcinoma,IP_5543648,female,350
+ISIC_5036479.JPG,85.0,malignant,basal cell carcinoma,IP_5543648,female,351
+ISIC_7838914.JPG,,malignant,basal cell carcinoma,IP_2179904,male,352
+ISIC_8841175.JPG,85.0,malignant,basal cell carcinoma,IP_5543648,female,353
+ISIC_5007109.JPG,85.0,malignant,basal cell carcinoma,IP_5543648,female,354
+ISIC_4117958.JPG,80.0,malignant,basal cell carcinoma,IP_7513395,female,355
+ISIC_4750998.JPG,80.0,malignant,basal cell carcinoma,IP_7513395,female,356
+ISIC_1859657.JPG,55.0,malignant,basal cell carcinoma,IP_5719687,female,357
+ISIC_9804428.JPG,55.0,malignant,basal cell carcinoma,IP_5719687,female,358
+ISIC_0898734.JPG,55.0,malignant,basal cell carcinoma,IP_5719687,female,359
+ISIC_5529430.JPG,55.0,malignant,basal cell carcinoma,IP_5719687,female,360
+ISIC_7410617.JPG,35.0,malignant,basal cell carcinoma,IP_8208875,female,361
+ISIC_8097277.JPG,70.0,malignant,basal cell carcinoma,IP_5801898,female,362
+ISIC_1091339.JPG,70.0,malignant,basal cell carcinoma,IP_5801898,female,363
+ISIC_9922955.JPG,70.0,malignant,basal cell carcinoma,IP_5801898,female,364
+ISIC_2706694.JPG,70.0,malignant,basal cell carcinoma,IP_5801898,female,365
+ISIC_3439101.JPG,60.0,malignant,basal cell carcinoma,IP_8857970,female,366
+ISIC_7485597.JPG,60.0,malignant,basal cell carcinoma,IP_8857970,female,367
+ISIC_9645798.JPG,80.0,malignant,basal cell carcinoma,IP_9929036,female,368
+ISIC_4301851.JPG,80.0,malignant,basal cell carcinoma,IP_9929036,female,369
+ISIC_1411587.JPG,70.0,malignant,basal cell carcinoma,IP_0383433,male,370
+ISIC_7550648.JPG,70.0,malignant,basal cell carcinoma,IP_0383433,male,371
+ISIC_5280241.JPG,55.0,malignant,basal cell carcinoma,IP_1589808,male,372
+ISIC_7952844.JPG,55.0,malignant,basal cell carcinoma,IP_1589808,male,373
+ISIC_3078834.JPG,75.0,malignant,basal cell carcinoma,IP_0290734,male,374
+ISIC_7908827.JPG,75.0,malignant,basal cell carcinoma,IP_0290734,male,375
+ISIC_2720030.JPG,80.0,malignant,basal cell carcinoma,IP_6555777,female,376
+ISIC_5926655.JPG,80.0,malignant,basal cell carcinoma,IP_6555777,female,377
+ISIC_0211418.JPG,65.0,malignant,basal cell carcinoma,IP_5842685,female,378
+ISIC_9998679.JPG,65.0,malignant,basal cell carcinoma,IP_5842685,female,379
+ISIC_5184876.JPG,65.0,malignant,basal cell carcinoma,IP_5842685,female,380
+ISIC_5928120.JPG,65.0,malignant,basal cell carcinoma,IP_5842685,female,381
+ISIC_5560888.JPG,85.0,malignant,basal cell carcinoma,IP_2081101,male,382
+ISIC_5783705.JPG,85.0,malignant,basal cell carcinoma,IP_2081101,male,383
+ISIC_6525238.JPG,85.0,malignant,basal cell carcinoma,IP_2081101,male,384
+ISIC_4794233.JPG,85.0,malignant,basal cell carcinoma,IP_2081101,male,385
+ISIC_6616147.JPG,60.0,malignant,basal cell carcinoma,IP_2440667,male,386
+ISIC_7835312.JPG,60.0,malignant,basal cell carcinoma,IP_2440667,male,387
+ISIC_8403508.JPG,80.0,malignant,basal cell carcinoma,IP_7550129,female,388
+ISIC_8559763.JPG,80.0,malignant,basal cell carcinoma,IP_7550129,female,389
+ISIC_7154868.JPG,50.0,malignant,basal cell carcinoma,IP_4758258,female,390
+ISIC_9417610.JPG,60.0,malignant,basal cell carcinoma,IP_5750465,female,391
+ISIC_4550448.JPG,65.0,malignant,basal cell carcinoma,IP_2080217,male,392
+ISIC_1667487.JPG,65.0,malignant,basal cell carcinoma,IP_2080217,male,393
+ISIC_1939384.JPG,65.0,malignant,basal cell carcinoma,IP_2080217,male,394
+ISIC_5513102.JPG,65.0,malignant,basal cell carcinoma,IP_2080217,male,395
+ISIC_9107240.JPG,75.0,malignant,basal cell carcinoma,IP_9086452,male,396
+ISIC_2113665.JPG,75.0,malignant,basal cell carcinoma,IP_9086452,male,397
+ISIC_3271387.JPG,50.0,malignant,basal cell carcinoma,IP_5633768,male,398
+ISIC_2784325.JPG,80.0,benign,verruca,IP_5415710,female,399
+ISIC_1536823.JPG,65.0,benign,verruca,IP_1777466,male,400
+ISIC_7706640.JPG,65.0,benign,verruca,,male,401
+ISIC_7108785.JPG,45.0,benign,verruca,,female,402
+ISIC_0148118.JPG,65.0,benign,verruca,,female,403
+ISIC_0514777.JPG,75.0,benign,verruca,,female,404
+ISIC_2249845.JPG,45.0,benign,cafe-au-lait macule,,male,405
+ISIC_3097899.JPG,55.0,benign,cafe-au-lait macule,IP_0491775,male,406
+ISIC_4485929.JPG,65.0,benign,seborrheic keratosis,IP_9326183,female,407
+ISIC_6727830.JPG,75.0,benign,seborrheic keratosis,IP_4968071,female,408
+ISIC_6168031.JPG,45.0,benign,seborrheic keratosis,IP_5520689,female,409
+ISIC_0942544.JPG,45.0,benign,seborrheic keratosis,IP_5520689,female,410
+ISIC_4310474.JPG,70.0,benign,seborrheic keratosis,IP_6610729,female,411
+ISIC_6478713.JPG,70.0,benign,seborrheic keratosis,IP_6610729,female,412
+ISIC_1464726.JPG,70.0,benign,seborrheic keratosis,IP_8785134,male,413
+ISIC_9704179.JPG,70.0,benign,seborrheic keratosis,IP_8785134,male,414
+ISIC_6118568.JPG,65.0,benign,seborrheic keratosis,IP_3342129,female,415
+ISIC_2522620.JPG,65.0,benign,seborrheic keratosis,IP_3342129,female,416
+ISIC_1583042.JPG,65.0,benign,seborrheic keratosis,IP_3342129,female,417
+ISIC_5959220.JPG,55.0,benign,seborrheic keratosis,IP_7960361,female,418
+ISIC_3750476.JPG,55.0,benign,seborrheic keratosis,IP_7960361,female,419
+ISIC_9795586.JPG,80.0,benign,seborrheic keratosis,IP_0991357,male,420
+ISIC_1760258.JPG,80.0,benign,seborrheic keratosis,IP_0991357,male,421
+ISIC_2436138.JPG,65.0,benign,seborrheic keratosis,IP_6579706,male,422
+ISIC_6284148.JPG,65.0,benign,seborrheic keratosis,IP_6579706,male,423
+ISIC_1827925.JPG,50.0,benign,seborrheic keratosis,IP_9655283,female,424
+ISIC_0261344.JPG,65.0,benign,seborrheic keratosis,IP_2564151,male,425
+ISIC_0821196.JPG,85.0,benign,seborrheic keratosis,IP_4260877,male,426
+ISIC_7854366.JPG,85.0,benign,seborrheic keratosis,IP_4260877,male,427
+ISIC_6516485.JPG,80.0,benign,seborrheic keratosis,IP_1344764,female,428
+ISIC_5900008.JPG,80.0,benign,seborrheic keratosis,IP_1344764,female,429
+ISIC_5280521.JPG,55.0,benign,seborrheic keratosis,IP_6089636,female,430
+ISIC_9417725.JPG,55.0,benign,seborrheic keratosis,IP_6089636,female,431
+ISIC_4525930.JPG,60.0,benign,seborrheic keratosis,IP_0778689,female,432
+ISIC_8260443.JPG,60.0,benign,seborrheic keratosis,IP_0778689,female,433
+ISIC_7546980.JPG,70.0,benign,seborrheic keratosis,IP_0031063,female,434
+ISIC_4786444.JPG,70.0,benign,seborrheic keratosis,IP_0031063,female,435
+ISIC_8548189.JPG,70.0,benign,seborrheic keratosis,IP_2738763,female,436
+ISIC_2763446.JPG,70.0,benign,seborrheic keratosis,IP_2738763,female,437
+ISIC_8539737.JPG,75.0,benign,seborrheic keratosis,IP_7559190,male,438
+ISIC_0135184.JPG,75.0,benign,seborrheic keratosis,IP_7559190,male,439
+ISIC_2224029.JPG,80.0,benign,seborrheic keratosis,IP_6558273,male,440
+ISIC_9248617.JPG,80.0,benign,seborrheic keratosis,IP_6558273,male,441
+ISIC_8272399.JPG,85.0,benign,seborrheic keratosis,IP_3451310,male,442
+ISIC_6428520.JPG,80.0,benign,seborrheic keratosis,IP_1657399,male,443
+ISIC_0799918.JPG,85.0,benign,seborrheic keratosis,IP_3702153,male,444
+ISIC_6486288.JPG,85.0,benign,seborrheic keratosis,IP_3702153,male,445
+ISIC_2214759.JPG,85.0,benign,seborrheic keratosis,IP_3702153,male,446
+ISIC_4486613.JPG,85.0,benign,seborrheic keratosis,IP_3702153,male,447
+ISIC_1733229.JPG,60.0,benign,seborrheic keratosis,IP_4097598,female,448
+ISIC_3249490.JPG,60.0,benign,seborrheic keratosis,IP_4097598,female,449
+ISIC_6129060.JPG,80.0,benign,seborrheic keratosis,IP_6123331,female,450
+ISIC_9977122.JPG,80.0,benign,seborrheic keratosis,IP_6123331,female,451
+ISIC_6542300.JPG,60.0,benign,seborrheic keratosis,IP_9885775,female,452
+ISIC_7979741.JPG,75.0,benign,seborrheic keratosis,IP_1522045,male,453
+ISIC_4415554.JPG,75.0,benign,seborrheic keratosis,IP_8107767,male,454
+ISIC_6218790.JPG,75.0,benign,seborrheic keratosis,IP_8107767,male,455
+ISIC_8092226.JPG,55.0,benign,seborrheic keratosis,IP_9973647,male,456
+ISIC_4085035.JPG,75.0,benign,seborrheic keratosis,IP_9284170,male,457
+ISIC_0235462.JPG,80.0,benign,seborrheic keratosis,IP_5504955,female,458
+ISIC_5805361.JPG,70.0,benign,seborrheic keratosis,IP_9998114,male,459
+ISIC_4564463.JPG,75.0,benign,seborrheic keratosis,IP_3114566,female,460
+ISIC_4323935.JPG,85.0,benign,seborrheic keratosis,IP_2512373,male,461
+ISIC_4164859.JPG,85.0,benign,seborrheic keratosis,IP_2512373,male,462
+ISIC_5569726.JPG,85.0,benign,seborrheic keratosis,IP_2512373,male,463
+ISIC_1212037.JPG,80.0,benign,seborrheic keratosis,IP_3571314,female,464
+ISIC_5018708.JPG,80.0,benign,seborrheic keratosis,IP_3571314,female,465
+ISIC_4641709.JPG,55.0,benign,seborrheic keratosis,IP_3303370,female,466
+ISIC_6807550.JPG,55.0,benign,seborrheic keratosis,IP_3303370,female,467
+ISIC_4704027.JPG,55.0,benign,seborrheic keratosis,IP_7506563,male,468
+ISIC_5070010.JPG,60.0,benign,seborrheic keratosis,IP_7304770,female,469
+ISIC_9116328.JPG,45.0,benign,seborrheic keratosis,IP_7614546,female,470
+ISIC_9026520.JPG,50.0,benign,seborrheic keratosis,IP_7034777,male,471
+ISIC_5827804.JPG,60.0,benign,seborrheic keratosis,IP_7605373,male,472
+ISIC_4856639.JPG,70.0,benign,seborrheic keratosis,IP_1684513,male,473
+ISIC_7016647.JPG,50.0,benign,seborrheic keratosis,IP_9332216,male,474
+ISIC_3491559.JPG,45.0,benign,seborrheic keratosis,IP_0918668,female,475
+ISIC_3954972.JPG,60.0,benign,seborrheic keratosis,IP_5925061,male,476
+ISIC_8645184.JPG,80.0,benign,seborrheic keratosis,IP_3103631,male,477
+ISIC_9186977.JPG,75.0,benign,seborrheic keratosis,IP_6095625,female,478
+ISIC_3751908.JPG,55.0,benign,seborrheic keratosis,IP_2465945,male,479
+ISIC_9406755.JPG,80.0,benign,seborrheic keratosis,IP_3210575,male,480
+ISIC_0390071.JPG,55.0,benign,seborrheic keratosis,IP_5980386,female,481
+ISIC_0968773.JPG,50.0,benign,seborrheic keratosis,IP_7386868,female,482
+ISIC_1748491.JPG,60.0,benign,seborrheic keratosis,IP_9534366,female,483
+ISIC_5917274.JPG,80.0,benign,seborrheic keratosis,IP_3313829,male,484
+ISIC_4170141.JPG,80.0,benign,seborrheic keratosis,IP_3313829,male,485
+ISIC_9111281.JPG,75.0,benign,seborrheic keratosis,IP_5951155,male,486
+ISIC_4449211.JPG,75.0,benign,seborrheic keratosis,IP_3520387,female,487
+ISIC_1418323.JPG,75.0,benign,seborrheic keratosis,IP_2829259,female,488
+ISIC_7988442.JPG,80.0,benign,seborrheic keratosis,IP_5124329,female,489
+ISIC_7170340.JPG,70.0,benign,seborrheic keratosis,IP_7894934,female,490
+ISIC_9430639.JPG,75.0,benign,seborrheic keratosis,IP_6975468,male,491
+ISIC_5438964.JPG,65.0,benign,seborrheic keratosis,IP_9274667,female,492
+ISIC_8692144.JPG,70.0,benign,seborrheic keratosis,IP_2700722,male,493
+ISIC_1204654.JPG,85.0,benign,seborrheic keratosis,IP_9090440,male,494
+ISIC_8727700.JPG,80.0,benign,seborrheic keratosis,IP_5852035,male,495
+ISIC_2454870.JPG,60.0,benign,seborrheic keratosis,IP_8112740,male,496
+ISIC_8510848.JPG,70.0,benign,seborrheic keratosis,IP_4504524,male,497
+ISIC_4465911.JPG,85.0,benign,seborrheic keratosis,IP_7354866,female,498
+ISIC_9334835.JPG,65.0,benign,seborrheic keratosis,IP_2660071,male,499
+ISIC_8460948.JPG,75.0,benign,seborrheic keratosis,IP_8564722,male,500
+ISIC_9876659.JPG,55.0,benign,seborrheic keratosis,IP_7015662,male,501
+ISIC_4190398.JPG,70.0,benign,seborrheic keratosis,IP_9227859,male,502
+ISIC_0820400.JPG,70.0,benign,seborrheic keratosis,IP_3174780,male,503
+ISIC_0345607.JPG,75.0,benign,seborrheic keratosis,IP_5633167,male,504
+ISIC_4441638.JPG,60.0,benign,seborrheic keratosis,IP_8306706,female,505
+ISIC_1118807.JPG,75.0,benign,seborrheic keratosis,IP_1726116,female,506
+ISIC_3443621.JPG,85.0,benign,solar lentigo,IP_1770335,female,507
+ISIC_6289062.JPG,55.0,benign,solar lentigo,IP_9786236,female,508
+ISIC_5948139.JPG,55.0,benign,solar lentigo,IP_9786236,female,509
+ISIC_1735322.JPG,50.0,benign,solar lentigo,IP_9503214,female,510
+ISIC_2355590.JPG,50.0,benign,solar lentigo,IP_9503214,female,511
+ISIC_3118406.JPG,55.0,benign,solar lentigo,IP_6257236,female,512
+ISIC_5731511.JPG,35.0,benign,solar lentigo,IP_9853265,female,513
+ISIC_2287405.JPG,50.0,benign,solar lentigo,IP_5234321,female,514
+ISIC_4854546.JPG,85.0,benign,solar lentigo,IP_2498144,male,515
+ISIC_1993128.JPG,50.0,benign,solar lentigo,IP_9642873,female,516
+ISIC_4105940.JPG,50.0,benign,solar lentigo,IP_3875370,female,517
+ISIC_2082962.JPG,50.0,benign,solar lentigo,IP_3875370,female,518
+ISIC_7747824.JPG,35.0,benign,solar lentigo,IP_9328831,female,519
+ISIC_9869653.JPG,60.0,benign,solar lentigo,IP_4869081,female,520
+ISIC_3979501.JPG,75.0,benign,solar lentigo,IP_3564884,female,521
+ISIC_4919062.JPG,80.0,benign,solar lentigo,IP_9432107,female,522
+ISIC_6259135.JPG,70.0,benign,solar lentigo,IP_7428337,female,523
+ISIC_1733131.JPG,70.0,benign,solar lentigo,IP_7428337,female,524
+ISIC_9536802.JPG,50.0,benign,solar lentigo,,female,525
+ISIC_8830487.JPG,65.0,benign,solar lentigo,,female,526
+ISIC_2801456.JPG,65.0,benign,solar lentigo,,female,527
+ISIC_5623138.JPG,60.0,benign,solar lentigo,,male,528
+ISIC_9262654.JPG,85.0,benign,solar lentigo,,male,529
+ISIC_9485600.JPG,70.0,benign,solar lentigo,,male,530
+ISIC_2857760.JPG,70.0,benign,solar lentigo,,male,531
+ISIC_4163590.JPG,65.0,benign,solar lentigo,,female,532
+ISIC_4338709.JPG,55.0,benign,solar lentigo,,male,533
+ISIC_7011923.JPG,85.0,benign,solar lentigo,,male,534
+ISIC_7078944.JPG,70.0,benign,solar lentigo,,male,535
+ISIC_7155969.JPG,65.0,benign,solar lentigo,,female,536
+ISIC_8423078.JPG,55.0,benign,solar lentigo,,male,537
+ISIC_2126277.JPG,60.0,benign,solar lentigo,,female,538
+ISIC_5789867.JPG,60.0,benign,solar lentigo,,female,539
+ISIC_0314083.JPG,60.0,benign,solar lentigo,,female,540
+ISIC_5849266.JPG,60.0,benign,solar lentigo,,male,541
+ISIC_3673376.JPG,70.0,benign,solar lentigo,,male,542
+ISIC_3393031.JPG,65.0,benign,solar lentigo,,female,543
+ISIC_7373609.JPG,60.0,benign,solar lentigo,,male,544
+ISIC_6128404.JPG,80.0,benign,solar lentigo,,female,545
+ISIC_7949933.JPG,55.0,benign,solar lentigo,,male,546
+ISIC_7264353.JPG,80.0,benign,solar lentigo,,female,547
+ISIC_9377882.JPG,80.0,benign,solar lentigo,,female,548
+ISIC_3023694.JPG,80.0,benign,solar lentigo,,male,549
+ISIC_0223461.JPG,80.0,benign,solar lentigo,,female,550
+ISIC_4734240.JPG,75.0,benign,solar lentigo,,female,551
+ISIC_2576220.JPG,55.0,benign,solar lentigo,,male,552
+ISIC_3871225.JPG,85.0,benign,solar lentigo,,male,553
+ISIC_7118325.JPG,50.0,benign,solar lentigo,,female,554
+ISIC_9487340.JPG,55.0,benign,solar lentigo,,female,555
+ISIC_1933101.JPG,70.0,benign,solar lentigo,,male,556
+ISIC_8790255.JPG,55.0,benign,solar lentigo,,male,557
+ISIC_7674295.JPG,70.0,benign,solar lentigo,,female,558
+ISIC_2810420.JPG,65.0,benign,solar lentigo,,female,559
+ISIC_7654194.JPG,70.0,benign,solar lentigo,,female,560
+ISIC_0126191.JPG,75.0,benign,solar lentigo,,female,561
+ISIC_2782072.JPG,65.0,benign,solar lentigo,,male,562
+ISIC_9152603.JPG,30.0,benign,solar lentigo,,male,563
+ISIC_0119296.JPG,80.0,benign,solar lentigo,,female,564
+ISIC_7476070.JPG,75.0,benign,solar lentigo,,female,565
+ISIC_6382790.JPG,65.0,benign,solar lentigo,,female,566
+ISIC_4320764.JPG,55.0,benign,solar lentigo,,female,567
+ISIC_5045552.JPG,60.0,benign,solar lentigo,,female,568
+ISIC_6106060.JPG,70.0,benign,solar lentigo,,male,569
+ISIC_5571430.JPG,50.0,benign,solar lentigo,,female,570
+ISIC_3363819.JPG,75.0,benign,solar lentigo,,male,571
+ISIC_9660623.JPG,70.0,benign,solar lentigo,,female,572
+ISIC_6073897.JPG,75.0,benign,solar lentigo,,male,573
+ISIC_4174867.JPG,75.0,benign,solar lentigo,,female,574
+ISIC_0289271.JPG,70.0,benign,solar lentigo,,female,575
+ISIC_5849354.JPG,70.0,benign,solar lentigo,,female,576
+ISIC_6460536.JPG,55.0,benign,solar lentigo,,female,577
+ISIC_8581475.JPG,55.0,benign,solar lentigo,,female,578
+ISIC_6174918.JPG,70.0,benign,solar lentigo,,female,579
+ISIC_6889402.JPG,80.0,benign,solar lentigo,,female,580
+ISIC_9772863.JPG,75.0,benign,solar lentigo,,male,581
+ISIC_2557960.JPG,80.0,benign,solar lentigo,,male,582
+ISIC_9348198.JPG,55.0,benign,solar lentigo,,female,583
+ISIC_5971635.JPG,50.0,benign,solar lentigo,,female,584
+ISIC_1205301.JPG,60.0,benign,solar lentigo,,male,585
+ISIC_9862922.JPG,40.0,benign,solar lentigo,,female,586
+ISIC_8329541.JPG,50.0,benign,solar lentigo,,female,587
+ISIC_1819418.JPG,75.0,benign,solar lentigo,,female,588
+ISIC_5449421.JPG,55.0,benign,solar lentigo,,female,589
+ISIC_0612638.JPG,65.0,benign,solar lentigo,,male,590
+ISIC_8502689.JPG,60.0,benign,solar lentigo,,female,591
+ISIC_1534969.JPG,70.0,benign,solar lentigo,,female,592
+ISIC_1214018.JPG,65.0,benign,solar lentigo,,female,593
+ISIC_7651745.JPG,80.0,benign,solar lentigo,,male,594
+ISIC_4492754.JPG,70.0,benign,solar lentigo,,female,595
+ISIC_1479692.JPG,70.0,benign,solar lentigo,,male,596
+ISIC_9611124.JPG,60.0,benign,solar lentigo,,female,597
+ISIC_4066892.JPG,60.0,benign,solar lentigo,,female,598
+ISIC_7508477.JPG,60.0,benign,solar lentigo,,female,599
+ISIC_5959935.JPG,60.0,benign,solar lentigo,,female,600
+ISIC_5337158.JPG,60.0,benign,solar lentigo,,male,601
+ISIC_9045599.JPG,85.0,benign,solar lentigo,,female,602
+ISIC_0140720.JPG,75.0,benign,solar lentigo,,female,603
+ISIC_5562836.JPG,85.0,benign,solar lentigo,,male,604
+ISIC_2615058.JPG,50.0,benign,solar lentigo,,female,605
+ISIC_7917871.JPG,60.0,benign,solar lentigo,,female,606
+ISIC_1714551.JPG,45.0,benign,dermatofibroma,IP_5520689,female,607
+ISIC_3550047.JPG,45.0,benign,dermatofibroma,IP_5520689,female,608
+ISIC_2887367.JPG,45.0,benign,dermatofibroma,IP_9096125,female,609
+ISIC_7901514.JPG,65.0,benign,dermatofibroma,IP_3342129,female,610
+ISIC_4192421.JPG,65.0,benign,dermatofibroma,IP_3342129,female,611
+ISIC_8969985.JPG,60.0,benign,dermatofibroma,IP_9436253,male,612
+ISIC_2700225.JPG,60.0,benign,dermatofibroma,IP_9436253,male,613
+ISIC_7901155.JPG,40.0,benign,dermatofibroma,IP_0123674,female,614
+ISIC_8470466.JPG,40.0,benign,dermatofibroma,IP_0123674,female,615
+ISIC_9071082.JPG,50.0,benign,dermatofibroma,IP_7762922,female,616
+ISIC_1914461.JPG,50.0,benign,dermatofibroma,IP_7762922,female,617
+ISIC_4825485.JPG,40.0,benign,dermatofibroma,IP_0685905,female,618
+ISIC_1613057.JPG,40.0,benign,dermatofibroma,IP_0685905,female,619
+ISIC_2084085.JPG,55.0,benign,dermatofibroma,IP_9800473,female,620
+ISIC_6883883.JPG,55.0,benign,dermatofibroma,IP_9800473,female,621
+ISIC_1966520.JPG,55.0,benign,dermatofibroma,IP_8812719,female,622
+ISIC_6427207.JPG,55.0,benign,dermatofibroma,IP_8812719,female,623
+ISIC_8174547.JPG,35.0,benign,dermatofibroma,IP_6578239,female,624
+ISIC_2692371.JPG,35.0,benign,dermatofibroma,IP_6578239,female,625
+ISIC_2900342.JPG,75.0,benign,dermatofibroma,IP_3612977,male,626
+ISIC_7298213.JPG,75.0,benign,dermatofibroma,IP_3612977,male,627
+ISIC_5502098.JPG,35.0,benign,dermatofibroma,IP_8075842,female,628
+ISIC_8647229.JPG,45.0,benign,dermatofibroma,IP_1638675,male,629
+ISIC_2503657.JPG,65.0,benign,dermatofibroma,IP_6184736,male,630
+ISIC_8373120.JPG,45.0,benign,dermatofibroma,IP_1371309,male,631
+ISIC_5053874.JPG,45.0,benign,dermatofibroma,IP_1371309,male,632
+ISIC_8721218.JPG,45.0,benign,dermatofibroma,IP_1371309,male,633
+ISIC_8894889.JPG,45.0,benign,dermatofibroma,IP_1371309,male,634
+ISIC_4700556.JPG,45.0,benign,dermatofibroma,IP_2495114,female,635
+ISIC_7380125.JPG,45.0,benign,dermatofibroma,IP_2495114,female,636
+ISIC_5985738.JPG,55.0,benign,dermatofibroma,IP_6003393,female,637
+ISIC_4489007.JPG,55.0,benign,dermatofibroma,IP_6003393,female,638
+ISIC_5159406.JPG,55.0,benign,dermatofibroma,IP_6089636,female,639
+ISIC_7844517.JPG,40.0,benign,dermatofibroma,IP_2304858,female,640
+ISIC_9116556.JPG,40.0,benign,dermatofibroma,IP_2304858,female,641
+ISIC_0962020.JPG,45.0,benign,dermatofibroma,IP_8779056,female,642
+ISIC_9351344.JPG,45.0,benign,dermatofibroma,IP_8779056,female,643
+ISIC_3136193.JPG,45.0,benign,dermatofibroma,IP_5265455,female,644
+ISIC_1083942.JPG,45.0,benign,dermatofibroma,IP_5265455,female,645
+ISIC_9653384.JPG,70.0,benign,dermatofibroma,IP_4891909,female,646
+ISIC_6248652.JPG,70.0,benign,dermatofibroma,IP_4891909,female,647
+ISIC_9480238.JPG,40.0,benign,dermatofibroma,IP_7351253,male,648
+ISIC_4733474.JPG,40.0,benign,dermatofibroma,IP_7351253,male,649
+ISIC_3615362.JPG,65.0,benign,dermatofibroma,IP_5230560,female,650
+ISIC_0897309.JPG,65.0,benign,dermatofibroma,IP_5230560,female,651
+ISIC_9188672.JPG,65.0,benign,dermatofibroma,IP_3672872,male,652
+ISIC_0520507.JPG,40.0,benign,dermatofibroma,IP_2933627,female,653
+ISIC_5727659.JPG,40.0,benign,dermatofibroma,IP_2933627,female,654
+ISIC_5205467.JPG,80.0,benign,dermatofibroma,IP_2877009,female,655
+ISIC_7089477.JPG,35.0,benign,dermatofibroma,IP_8376420,male,656
+ISIC_6926022.JPG,,benign,dermatofibroma,IP_1751755,female,657
+ISIC_5703951.JPG,50.0,benign,dermatofibroma,IP_9642873,female,658
+ISIC_4299584.JPG,50.0,benign,dermatofibroma,IP_9642873,female,659
+ISIC_3204657.JPG,55.0,benign,dermatofibroma,IP_7547464,female,660
+ISIC_4506388.JPG,80.0,benign,dermatofibroma,IP_3571314,female,661
+ISIC_4709950.JPG,80.0,benign,dermatofibroma,IP_3571314,female,662
+ISIC_5206657.JPG,65.0,benign,dermatofibroma,IP_6189247,female,663
+ISIC_1775932.JPG,55.0,benign,dermatofibroma,IP_0698655,male,664
+ISIC_5189637.JPG,55.0,benign,dermatofibroma,IP_0698655,male,665
+ISIC_0692300.JPG,60.0,benign,dermatofibroma,IP_1165379,female,666
+ISIC_9349247.JPG,30.0,benign,dermatofibroma,IP_4058211,female,667
+ISIC_2304572.JPG,65.0,benign,dermatofibroma,IP_3462372,female,668
+ISIC_7461616.JPG,80.0,benign,dermatofibroma,IP_2869031,male,669
+ISIC_7575957.JPG,70.0,benign,dermatofibroma,IP_4316317,male,670
+ISIC_3425517.JPG,70.0,benign,dermatofibroma,IP_4316317,male,671
+ISIC_2343627.JPG,60.0,benign,dermatofibroma,IP_4854139,male,672
+ISIC_8387580.JPG,50.0,benign,dermatofibroma,IP_7317189,female,673
+ISIC_8141769.JPG,65.0,benign,dermatofibroma,IP_6089471,female,674
+ISIC_3785008.JPG,70.0,benign,dermatofibroma,IP_6509091,female,675
+ISIC_5377242.JPG,55.0,benign,dermatofibroma,IP_9933189,female,676
+ISIC_1147165.JPG,70.0,benign,dermatofibroma,IP_2768316,female,677
+ISIC_1244418.JPG,70.0,benign,dermatofibroma,IP_6970316,female,678
+ISIC_6393624.JPG,65.0,benign,dermatofibroma,,female,679
+ISIC_8468832.JPG,55.0,benign,dermatofibroma,,female,680
+ISIC_6212874.JPG,60.0,benign,dermatofibroma,,female,681
+ISIC_1099767.JPG,65.0,benign,dermatofibroma,,male,682
+ISIC_6644377.JPG,60.0,benign,dermatofibroma,,female,683
+ISIC_0799487.JPG,55.0,benign,dermatofibroma,,female,684
+ISIC_0073193.JPG,35.0,,dermatofibroma,,male,685
+ISIC_0073189.JPG,70.0,,dermatofibroma,,male,686
+ISIC_0073141.JPG,45.0,,dermatofibroma,,female,687
+ISIC_0073112.JPG,85.0,,dermatofibroma,,female,688
+ISIC_0072970.JPG,60.0,,dermatofibroma,,female,689
+ISIC_0072193.JPG,45.0,,dermatofibroma,,male,690
+ISIC_0072137.JPG,70.0,,dermatofibroma,,female,691
+ISIC_0072045.JPG,80.0,,dermatofibroma,,female,692
+ISIC_0072033.JPG,40.0,,dermatofibroma,,male,693
+ISIC_0071998.JPG,45.0,,dermatofibroma,,female,694
+ISIC_0071858.JPG,85.0,,dermatofibroma,,female,695
+ISIC_0071844.JPG,40.0,,dermatofibroma,,male,696
+ISIC_0071645.JPG,45.0,,dermatofibroma,,female,697
+ISIC_0071425.JPG,65.0,,dermatofibroma,,male,698
+ISIC_0071418.JPG,60.0,,dermatofibroma,,female,699
+ISIC_0071233.JPG,65.0,,dermatofibroma,,male,700
+ISIC_0071002.JPG,55.0,,dermatofibroma,,male,701
+ISIC_0070875.JPG,60.0,,dermatofibroma,,female,702
+ISIC_0070730.JPG,45.0,,dermatofibroma,,male,703
+ISIC_0070680.JPG,50.0,,dermatofibroma,,female,704
+ISIC_0070546.JPG,40.0,,dermatofibroma,,male,705
+ISIC_0070460.JPG,55.0,,dermatofibroma,,male,706
+ISIC_4788959.JPG,80.0,benign,lichenoid keratosis,IP_8165031,male,707
+ISIC_3323494.JPG,80.0,benign,lichenoid keratosis,IP_8165031,male,708
+ISIC_3678711.JPG,70.0,benign,lichenoid keratosis,IP_6422845,male,709
+ISIC_1300267.JPG,65.0,benign,lichenoid keratosis,IP_2712283,male,710
+ISIC_3206521.JPG,65.0,benign,lichenoid keratosis,IP_7380656,female,711
+ISIC_9859134.JPG,75.0,benign,lichenoid keratosis,IP_6993731,male,712
+ISIC_7246266.JPG,70.0,benign,lichenoid keratosis,IP_7717848,female,713
+ISIC_4454075.JPG,75.0,benign,lichenoid keratosis,IP_3792900,male,714
+ISIC_3815982.JPG,80.0,benign,lichenoid keratosis,IP_3210575,male,715
+ISIC_6616555.JPG,55.0,benign,lichenoid keratosis,IP_9728476,female,716
+ISIC_1406434.JPG,70.0,benign,lichenoid keratosis,IP_6200159,female,717
+ISIC_8671159.JPG,80.0,benign,lichenoid keratosis,IP_5711377,female,718
+ISIC_7680185.JPG,75.0,benign,lichenoid keratosis,IP_5951155,male,719
+ISIC_2948772.JPG,50.0,benign,lichenoid keratosis,IP_5440286,female,720
+ISIC_2540746.JPG,65.0,benign,lichenoid keratosis,IP_0680784,male,721
+ISIC_0098024.JPG,65.0,benign,lichenoid keratosis,IP_0680784,male,722
+ISIC_7723219.JPG,65.0,benign,lichenoid keratosis,IP_3516012,female,723
+ISIC_7553497.JPG,75.0,benign,lichenoid keratosis,IP_7797815,male,724
+ISIC_7275519.JPG,65.0,benign,lichenoid keratosis,IP_9184359,male,725
+ISIC_9128550.JPG,55.0,benign,lichenoid keratosis,IP_1229253,female,726
+ISIC_6825567.JPG,40.0,benign,lichenoid keratosis,IP_1851850,female,727
+ISIC_8850421.JPG,75.0,benign,lichenoid keratosis,IP_2711304,female,728
+ISIC_4203917.JPG,80.0,benign,lichenoid keratosis,IP_5912408,female,729
+ISIC_4581400.JPG,60.0,benign,lichenoid keratosis,IP_9624374,female,730
+ISIC_5140656.JPG,80.0,benign,lichenoid keratosis,IP_8209756,female,731
+ISIC_2775779.JPG,25.0,benign,lichenoid keratosis,,female,732
+ISIC_0749853.JPG,65.0,benign,lichenoid keratosis,,female,733
+ISIC_5330829.JPG,70.0,benign,lichenoid keratosis,,female,734
+ISIC_6844482.JPG,85.0,benign,lichenoid keratosis,,female,735
+ISIC_7784603.JPG,70.0,benign,lichenoid keratosis,,female,736
+ISIC_3846854.JPG,70.0,benign,lichenoid keratosis,,female,737
+ISIC_8813982.JPG,70.0,benign,lichenoid keratosis,,male,738
+ISIC_3321936.JPG,75.0,benign,lichenoid keratosis,,male,739
+ISIC_3980802.JPG,85.0,benign,lichenoid keratosis,,male,740
+ISIC_0280376.JPG,70.0,benign,lichenoid keratosis,,male,741
+ISIC_0668612.JPG,55.0,benign,lichenoid keratosis,,female,742
+ISIC_5523865.JPG,70.0,benign,lichenoid keratosis,,male,743
+ISIC_1357686.JPG,80.0,benign,lichenoid keratosis,,male,744
+ISIC_0191276.JPG,60.0,benign,lichenoid keratosis,,male,745
+ISIC_9187590.JPG,75.0,benign,lichenoid keratosis,,male,746
+ISIC_0604571.JPG,75.0,benign,lichenoid keratosis,,female,747
+ISIC_1071783.JPG,55.0,benign,lichenoid keratosis,,female,748
+ISIC_4714276.JPG,55.0,benign,lichenoid keratosis,,male,749
+ISIC_3127359.JPG,60.0,benign,lichenoid keratosis,,female,750
+ISIC_7969855.JPG,85.0,benign,lichenoid keratosis,,female,751
+ISIC_3303974.JPG,65.0,benign,lichenoid keratosis,,male,752
+ISIC_7252263.JPG,70.0,benign,lichenoid keratosis,,female,753
+ISIC_7481964.JPG,65.0,benign,lichenoid keratosis,,female,754
+ISIC_2508280.JPG,65.0,benign,lichenoid keratosis,,female,755
+ISIC_3040722.JPG,55.0,benign,lichenoid keratosis,,female,756
+ISIC_1884970.JPG,50.0,benign,lichenoid keratosis,,female,757
+ISIC_5755245.JPG,55.0,benign,lichenoid keratosis,,male,758
+ISIC_4411089.JPG,45.0,benign,lichenoid keratosis,,female,759
+ISIC_6650334.JPG,65.0,benign,lichenoid keratosis,,female,760
+ISIC_8828670.JPG,50.0,benign,lichenoid keratosis,IP_2898839,male,761
+ISIC_5278307.JPG,80.0,benign,lichenoid keratosis,IP_2697411,male,762
+ISIC_7050773.JPG,65.0,benign,lichenoid keratosis,IP_2408430,female,763
+ISIC_6552718.JPG,80.0,benign,lichenoid keratosis,IP_3246668,male,764
+ISIC_8430165.JPG,70.0,benign,lichenoid keratosis,IP_8293383,female,765
+ISIC_4364740.JPG,40.0,benign,lichenoid keratosis,IP_2452694,male,766
+ISIC_3461423.JPG,35.0,benign,lichenoid keratosis,IP_2452694,male,767
+ISIC_0755331.JPG,60.0,benign,lichenoid keratosis,IP_9965542,male,768
+ISIC_9432244.JPG,60.0,benign,lichenoid keratosis,IP_4235783,male,769
+ISIC_9645937.JPG,60.0,benign,lichenoid keratosis,IP_4235783,male,770
+ISIC_5136612.JPG,65.0,benign,lichenoid keratosis,IP_2789041,male,771
+ISIC_3417390.JPG,50.0,benign,lichenoid keratosis,IP_9229871,female,772
+ISIC_1453146.JPG,65.0,benign,lichenoid keratosis,IP_4702665,female,773
+ISIC_9756079.JPG,65.0,benign,lichenoid keratosis,IP_2881084,female,774
+ISIC_2150997.JPG,65.0,benign,lichenoid keratosis,IP_2881084,female,775
+ISIC_5177353.JPG,70.0,benign,lichenoid keratosis,IP_2107993,female,776
+ISIC_1740430.JPG,80.0,benign,lichenoid keratosis,IP_6215369,male,777
+ISIC_5576241.JPG,80.0,benign,lichenoid keratosis,IP_6215369,male,778
+ISIC_7918608.JPG,75.0,benign,lichenoid keratosis,IP_6006409,female,779
+ISIC_8851901.JPG,80.0,benign,lichenoid keratosis,IP_4615697,male,780
+ISIC_6596403.JPG,75.0,benign,lichenoid keratosis,IP_0585473,male,781
+ISIC_5722465.JPG,85.0,benign,lichenoid keratosis,IP_8975630,male,782
+ISIC_7785457.JPG,80.0,benign,lichenoid keratosis,IP_4576785,male,783
+ISIC_9274776.JPG,75.0,benign,lichenoid keratosis,IP_2457893,male,784
+ISIC_2947742.JPG,55.0,benign,lichenoid keratosis,IP_7373371,female,785
+ISIC_2283151.JPG,55.0,benign,lichenoid keratosis,IP_0400168,female,786
+ISIC_3875647.JPG,85.0,benign,lichenoid keratosis,IP_6008814,female,787
+ISIC_5958657.JPG,85.0,benign,lichenoid keratosis,IP_2594106,male,788
+ISIC_0477201.JPG,70.0,benign,lichenoid keratosis,IP_9619666,male,789
+ISIC_5238910.JPG,60.0,benign,lichenoid keratosis,IP_4772390,male,790
+ISIC_6129538.JPG,45.0,benign,lichenoid keratosis,IP_2360609,male,791
+ISIC_9492000.JPG,45.0,benign,lichenoid keratosis,IP_6631780,female,792
+ISIC_2710887.JPG,70.0,benign,lichenoid keratosis,IP_5357759,female,793
+ISIC_2956783.JPG,80.0,benign,lichenoid keratosis,IP_7946279,female,794
+ISIC_0433569.JPG,50.0,benign,lichenoid keratosis,IP_8848835,female,795
+ISIC_7200676.JPG,60.0,benign,lichenoid keratosis,IP_9067016,male,796
+ISIC_8894528.JPG,35.0,benign,lichenoid keratosis,IP_4988871,female,797
+ISIC_1467583.JPG,65.0,benign,lichenoid keratosis,IP_9661974,male,798
+ISIC_0001107.JPG,55.0,benign,lichenoid keratosis,,female,799
+ISIC_9696289.JPG,70.0,benign,scar,IP_3306760,female,800
+ISIC_3227202.JPG,30.0,benign,scar,,female,801
+ISIC_4126405.JPG,65.0,benign,scar,,male,802
+ISIC_3645165.JPG,60.0,benign,scar,IP_1348848,male,803
+ISIC_7457488.JPG,60.0,benign,scar,IP_8003017,female,804
+ISIC_0011989.JPG,25.0,benign,scar,,female,805
+ISIC_5646514.JPG,75.0,benign,pigmented benign keratosis,IP_7854426,female,806
+ISIC_0036063.JPG,,,pigmented benign keratosis,,,807
+ISIC_0036060.JPG,,,pigmented benign keratosis,,,808
+ISIC_0036053.JPG,50.0,,pigmented benign keratosis,,male,809
+ISIC_0036050.JPG,,,pigmented benign keratosis,,,810
+ISIC_0036043.JPG,65.0,,pigmented benign keratosis,,male,811
+ISIC_0036032.JPG,65.0,,pigmented benign keratosis,,female,812
+ISIC_0036025.JPG,65.0,,pigmented benign keratosis,,male,813
+ISIC_0036023.JPG,,,pigmented benign keratosis,,,814
+ISIC_0036021.JPG,,,pigmented benign keratosis,,,815
+ISIC_0036019.JPG,,,pigmented benign keratosis,,,816
+ISIC_0036015.JPG,,,pigmented benign keratosis,,,817
+ISIC_0036008.JPG,,,pigmented benign keratosis,,,818
+ISIC_0036003.JPG,,,pigmented benign keratosis,,,819
+ISIC_0035996.JPG,,,pigmented benign keratosis,,,820
+ISIC_0035993.JPG,40.0,,pigmented benign keratosis,,female,821
+ISIC_0035959.JPG,75.0,,pigmented benign keratosis,,female,822
+ISIC_0035953.JPG,15.0,,pigmented benign keratosis,,female,823
+ISIC_0035950.JPG,,,pigmented benign keratosis,,,824
+ISIC_0035949.JPG,,,pigmented benign keratosis,,,825
+ISIC_0035937.JPG,,,pigmented benign keratosis,,,826
+ISIC_0035932.JPG,,,pigmented benign keratosis,,,827
+ISIC_0035926.JPG,,,pigmented benign keratosis,,,828
+ISIC_0035918.JPG,65.0,,pigmented benign keratosis,,female,829
+ISIC_0035917.JPG,,,pigmented benign keratosis,,,830
+ISIC_0035908.JPG,,,pigmented benign keratosis,,,831
+ISIC_0035899.JPG,,,pigmented benign keratosis,,,832
+ISIC_0035881.JPG,,,pigmented benign keratosis,,,833
+ISIC_0035878.JPG,,,pigmented benign keratosis,,,834
+ISIC_0035873.JPG,,,pigmented benign keratosis,,,835
+ISIC_0035866.JPG,40.0,,pigmented benign keratosis,,female,836
+ISIC_0035865.JPG,,,pigmented benign keratosis,,,837
+ISIC_0035847.JPG,,,pigmented benign keratosis,,,838
+ISIC_0035834.JPG,,,pigmented benign keratosis,,,839
+ISIC_0035833.JPG,25.0,,pigmented benign keratosis,,female,840
+ISIC_0035831.JPG,,,pigmented benign keratosis,,,841
+ISIC_0035829.JPG,,,pigmented benign keratosis,,,842
+ISIC_0035818.JPG,,,pigmented benign keratosis,,,843
+ISIC_0035810.JPG,85.0,,pigmented benign keratosis,,male,844
+ISIC_0035807.JPG,,,pigmented benign keratosis,,,845
+ISIC_0035805.JPG,50.0,,pigmented benign keratosis,,male,846
+ISIC_0035802.JPG,,,pigmented benign keratosis,,,847
+ISIC_0035799.JPG,,,pigmented benign keratosis,,,848
+ISIC_0035787.JPG,,,pigmented benign keratosis,,,849
+ISIC_0035776.JPG,65.0,,pigmented benign keratosis,,male,850
+ISIC_0035768.JPG,50.0,,pigmented benign keratosis,,,851
+ISIC_0035765.JPG,65.0,,pigmented benign keratosis,,female,852
+ISIC_0035763.JPG,,,pigmented benign keratosis,,,853
+ISIC_0035755.JPG,25.0,,pigmented benign keratosis,,female,854
+ISIC_0035754.JPG,,,pigmented benign keratosis,,,855
+ISIC_0035753.JPG,80.0,,pigmented benign keratosis,,female,856
+ISIC_0035751.JPG,65.0,,pigmented benign keratosis,,male,857
+ISIC_0035750.JPG,50.0,,pigmented benign keratosis,,male,858
+ISIC_0035741.JPG,,,pigmented benign keratosis,,,859
+ISIC_0035739.JPG,,,pigmented benign keratosis,,,860
+ISIC_0035735.JPG,,,pigmented benign keratosis,,,861
+ISIC_0035730.JPG,65.0,,pigmented benign keratosis,,male,862
+ISIC_0035715.JPG,,,pigmented benign keratosis,,,863
+ISIC_0035701.JPG,,,pigmented benign keratosis,,,864
+ISIC_0035694.JPG,,,pigmented benign keratosis,,,865
+ISIC_0035679.JPG,,,pigmented benign keratosis,,,866
+ISIC_0035676.JPG,,,pigmented benign keratosis,,,867
+ISIC_0035669.JPG,15.0,,pigmented benign keratosis,,female,868
+ISIC_0035664.JPG,50.0,,pigmented benign keratosis,,male,869
+ISIC_0035661.JPG,25.0,,pigmented benign keratosis,,female,870
+ISIC_0035655.JPG,,,pigmented benign keratosis,,,871
+ISIC_0035645.JPG,65.0,,pigmented benign keratosis,,female,872
+ISIC_0035635.JPG,80.0,,pigmented benign keratosis,,male,873
+ISIC_0035634.JPG,50.0,,pigmented benign keratosis,,male,874
+ISIC_0035631.JPG,45.0,,pigmented benign keratosis,,male,875
+ISIC_0035627.JPG,60.0,,pigmented benign keratosis,,male,876
+ISIC_0035624.JPG,,,pigmented benign keratosis,,,877
+ISIC_0035619.JPG,45.0,,pigmented benign keratosis,,male,878
+ISIC_0035613.JPG,50.0,,pigmented benign keratosis,,male,879
+ISIC_0035612.JPG,70.0,,pigmented benign keratosis,,male,880
+ISIC_0035607.JPG,30.0,,pigmented benign keratosis,,female,881
+ISIC_0035593.JPG,,,pigmented benign keratosis,,,882
+ISIC_0035590.JPG,55.0,,pigmented benign keratosis,,female,883
+ISIC_0035589.JPG,45.0,,pigmented benign keratosis,,male,884
+ISIC_0035584.JPG,65.0,,pigmented benign keratosis,,male,885
+ISIC_0035570.JPG,65.0,,pigmented benign keratosis,,male,886
+ISIC_0035564.JPG,,,pigmented benign keratosis,,,887
+ISIC_0035556.JPG,,,pigmented benign keratosis,,,888
+ISIC_0035538.JPG,85.0,,pigmented benign keratosis,,female,889
+ISIC_0035533.JPG,,,pigmented benign keratosis,,,890
+ISIC_0035517.JPG,80.0,,pigmented benign keratosis,,male,891
+ISIC_0035511.JPG,55.0,,pigmented benign keratosis,,male,892
+ISIC_0035504.JPG,55.0,,pigmented benign keratosis,,female,893
+ISIC_0035487.JPG,65.0,,pigmented benign keratosis,,male,894
+ISIC_0035472.JPG,60.0,,pigmented benign keratosis,,male,895
+ISIC_0035471.JPG,,,pigmented benign keratosis,,,896
+ISIC_0035466.JPG,80.0,,pigmented benign keratosis,,female,897
+ISIC_0035464.JPG,,,pigmented benign keratosis,,,898
+ISIC_0035463.JPG,65.0,,pigmented benign keratosis,,male,899
+ISIC_0035451.JPG,75.0,,pigmented benign keratosis,,female,900
+ISIC_0035436.JPG,75.0,,pigmented benign keratosis,,male,901
+ISIC_0035416.JPG,50.0,,pigmented benign keratosis,,female,902
+ISIC_0035403.JPG,70.0,,pigmented benign keratosis,,female,903
+ISIC_0035391.JPG,55.0,,pigmented benign keratosis,,female,904
+ISIC_0035388.JPG,,,pigmented benign keratosis,,,905
+ISIC_9301005.JPG,70.0,benign,lentigo NOS,IP_9621873,male,906
+ISIC_7166430.JPG,65.0,benign,lentigo NOS,IP_7916911,female,907
+ISIC_5855767.JPG,70.0,benign,lentigo NOS,IP_8132524,male,908
+ISIC_8622942.JPG,55.0,benign,lentigo NOS,IP_4255168,female,909
+ISIC_5386182.JPG,75.0,benign,lentigo NOS,IP_3355987,female,910
+ISIC_5176677.JPG,70.0,benign,lentigo NOS,IP_6714260,female,911
+ISIC_4511704.JPG,85.0,benign,lentigo NOS,IP_9653442,female,912
+ISIC_7428306.JPG,85.0,benign,lentigo NOS,IP_9653442,female,913
+ISIC_7549843.JPG,85.0,benign,lentigo NOS,IP_9653442,female,914
+ISIC_9007451.JPG,70.0,benign,lentigo NOS,IP_0540302,female,915
+ISIC_3526376.JPG,80.0,benign,lentigo NOS,IP_2127737,female,916
+ISIC_8320240.JPG,65.0,benign,lentigo NOS,IP_3954818,female,917
+ISIC_0155910.JPG,75.0,benign,lentigo NOS,IP_3792900,male,918
+ISIC_6397087.JPG,75.0,benign,lentigo NOS,IP_3792900,male,919
+ISIC_2355721.JPG,75.0,benign,lentigo NOS,IP_6893721,female,920
+ISIC_1940620.JPG,60.0,benign,lentigo NOS,IP_6936307,female,921
+ISIC_4602463.JPG,25.0,benign,lentigo NOS,IP_4468352,female,922
+ISIC_0991761.JPG,65.0,benign,lentigo NOS,IP_3891138,female,923
+ISIC_1617848.JPG,65.0,benign,lentigo NOS,IP_8219510,male,924
+ISIC_6813281.JPG,75.0,benign,lentigo NOS,IP_5276820,female,925
+ISIC_2789443.JPG,65.0,benign,lentigo NOS,IP_6575373,female,926
+ISIC_1112228.JPG,65.0,benign,lentigo NOS,IP_0385393,female,927
+ISIC_0464270.JPG,70.0,benign,lentigo NOS,IP_7894934,female,928
+ISIC_1569258.JPG,65.0,benign,lentigo NOS,IP_4732506,female,929
+ISIC_4731257.JPG,85.0,benign,lentigo NOS,IP_7498505,male,930
+ISIC_3573097.JPG,70.0,benign,lentigo NOS,IP_5783656,female,931
+ISIC_1736524.JPG,50.0,benign,lentigo NOS,IP_0748604,female,932
+ISIC_9733868.JPG,60.0,benign,lentigo NOS,IP_8554596,female,933
+ISIC_4534593.JPG,75.0,benign,lentigo NOS,IP_4601401,male,934
+ISIC_6453546.JPG,50.0,benign,lentigo NOS,IP_4900609,female,935
+ISIC_9812976.JPG,70.0,benign,lentigo NOS,IP_3883953,male,936
+ISIC_5626834.JPG,70.0,indeterminate/benign,lentigo NOS,IP_3875916,female,937
+ISIC_4216320.JPG,55.0,benign,lentigo NOS,IP_1821795,female,938
+ISIC_0665750.JPG,55.0,benign,lentigo NOS,IP_1821795,female,939
+ISIC_7565477.JPG,70.0,benign,lentigo NOS,IP_8386692,male,940
+ISIC_7336507.JPG,55.0,benign,lentigo NOS,IP_8634652,female,941
+ISIC_0686366.JPG,75.0,benign,lentigo NOS,IP_3516181,male,942
+ISIC_0134155.JPG,35.0,benign,lentigo NOS,IP_1924080,male,943
+ISIC_6823020.JPG,55.0,benign,lentigo NOS,IP_6147295,male,944
+ISIC_3058414.JPG,55.0,benign,lentigo NOS,IP_2546235,male,945
+ISIC_4891461.JPG,70.0,benign,lentigo NOS,IP_3174780,male,946
+ISIC_0310853.JPG,60.0,benign,lentigo NOS,IP_9194333,female,947
+ISIC_5556327.JPG,75.0,benign,lentigo NOS,IP_9485229,male,948
+ISIC_3151591.JPG,85.0,benign,lentigo NOS,IP_0387028,male,949
+ISIC_2398564.JPG,65.0,benign,lentigo NOS,IP_5866533,male,950
+ISIC_5475235.JPG,65.0,benign,lentigo NOS,IP_3798501,male,951
+ISIC_7277494.JPG,65.0,benign,lentigo NOS,IP_0341102,female,952
+ISIC_2645357.JPG,70.0,benign,lentigo NOS,IP_3531969,female,953
+ISIC_1017188.JPG,80.0,benign,lentigo NOS,IP_4010746,female,954
+ISIC_8481515.JPG,65.0,benign,lentigo NOS,IP_8566965,female,955
+ISIC_6793293.JPG,50.0,benign,lentigo NOS,,male,956
+ISIC_6536532.JPG,45.0,benign,lentigo NOS,,female,957
+ISIC_2538175.JPG,75.0,benign,lentigo NOS,,female,958
+ISIC_2671471.JPG,70.0,benign,lentigo NOS,,male,959
+ISIC_0536439.JPG,50.0,benign,lentigo NOS,,male,960
+ISIC_9377355.JPG,55.0,benign,lentigo NOS,,male,961
+ISIC_7380754.JPG,75.0,benign,lentigo NOS,,male,962
+ISIC_5678867.JPG,80.0,benign,lentigo NOS,,male,963
+ISIC_9156630.JPG,50.0,benign,lentigo NOS,,female,964
+ISIC_7732458.JPG,55.0,benign,lentigo NOS,,female,965
+ISIC_3487175.JPG,60.0,benign,lentigo NOS,,female,966
+ISIC_8502411.JPG,75.0,benign,lentigo NOS,,male,967
+ISIC_4292480.JPG,75.0,benign,lentigo NOS,,male,968
+ISIC_3731755.JPG,60.0,benign,lentigo NOS,,female,969
+ISIC_5934354.JPG,45.0,benign,lentigo NOS,,female,970
+ISIC_7880127.JPG,75.0,benign,lentigo NOS,,female,971
+ISIC_6433929.JPG,75.0,benign,lentigo NOS,,female,972
+ISIC_6409522.JPG,75.0,benign,lentigo NOS,,female,973
+ISIC_0478979.JPG,80.0,benign,lentigo NOS,,male,974
+ISIC_9746722.JPG,85.0,benign,lentigo NOS,,female,975
+ISIC_5208776.JPG,45.0,benign,lentigo NOS,,male,976
+ISIC_3848912.JPG,75.0,benign,lentigo NOS,,male,977
+ISIC_9074326.JPG,65.0,benign,lentigo NOS,,male,978
+ISIC_7414188.JPG,75.0,benign,lentigo NOS,,male,979
+ISIC_2290284.JPG,45.0,benign,lentigo NOS,,female,980
+ISIC_5889844.JPG,55.0,benign,lentigo NOS,,female,981
+ISIC_5930265.JPG,75.0,benign,lentigo NOS,,female,982
+ISIC_2227940.JPG,45.0,benign,lentigo NOS,,female,983
+ISIC_5727282.JPG,70.0,benign,lentigo NOS,,female,984
+ISIC_2294973.JPG,60.0,benign,lentigo NOS,,female,985
+ISIC_3206883.JPG,70.0,benign,lentigo NOS,,female,986
+ISIC_7408991.JPG,60.0,benign,lentigo NOS,,female,987
+ISIC_6951477.JPG,50.0,benign,lentigo NOS,,female,988
+ISIC_8947891.JPG,80.0,benign,lentigo NOS,,female,989
+ISIC_8190955.JPG,75.0,benign,lentigo NOS,,female,990
+ISIC_5642041.JPG,55.0,benign,lentigo NOS,,female,991
+ISIC_7014017.JPG,75.0,benign,lentigo NOS,,male,992
+ISIC_5857357.JPG,60.0,benign,lentigo NOS,,female,993
+ISIC_8795050.JPG,70.0,benign,lentigo NOS,,female,994
+ISIC_5740807.JPG,70.0,benign,lentigo NOS,,male,995
+ISIC_5909161.JPG,60.0,benign,lentigo NOS,,female,996
+ISIC_4130156.JPG,45.0,benign,lentigo NOS,,female,997
+ISIC_1277350.JPG,70.0,benign,lentigo NOS,,female,998
+ISIC_5743254.JPG,70.0,benign,lentigo NOS,,female,999
+ISIC_8708893.JPG,75.0,benign,lentigo NOS,,male,1000
+ISIC_4983958.JPG,75.0,benign,lentigo NOS,,male,1001
+ISIC_1789897.JPG,75.0,benign,lentigo NOS,,female,1002
+ISIC_7109857.JPG,75.0,benign,lentigo NOS,,male,1003
+ISIC_6969292.JPG,60.0,benign,lentigo NOS,,female,1004
+ISIC_9531992.JPG,80.0,benign,lentigo NOS,,male,1005
+ISIC_6230191.JPG,25.0,malignant,melanoma,IP_8542863,male,1006
+ISIC_9677008.JPG,30.0,malignant,melanoma,IP_5493434,female,1007
+ISIC_2107859.JPG,65.0,malignant,melanoma,IP_1218261,male,1008
+ISIC_2368449.JPG,65.0,malignant,melanoma,IP_1218261,male,1009
+ISIC_0094098.JPG,65.0,malignant,melanoma,IP_1218261,male,1010
+ISIC_1452632.JPG,65.0,malignant,melanoma,IP_1218261,male,1011
+ISIC_9098311.JPG,65.0,malignant,melanoma,IP_5804995,male,1012
+ISIC_8786983.JPG,65.0,malignant,melanoma,IP_5804995,male,1013
+ISIC_8793798.JPG,60.0,malignant,melanoma,IP_0240453,female,1014
+ISIC_4326975.JPG,60.0,malignant,melanoma,IP_0240453,female,1015
+ISIC_9195841.JPG,70.0,malignant,melanoma,IP_4805821,male,1016
+ISIC_7373164.JPG,70.0,malignant,melanoma,IP_4805821,male,1017
+ISIC_7541596.JPG,70.0,malignant,melanoma,IP_4805821,male,1018
+ISIC_1262790.JPG,70.0,malignant,melanoma,IP_4805821,male,1019
+ISIC_5862918.JPG,80.0,malignant,melanoma,IP_0906253,male,1020
+ISIC_3234368.JPG,85.0,malignant,melanoma,IP_9093111,male,1021
+ISIC_5704967.JPG,85.0,malignant,melanoma,IP_9093111,male,1022
+ISIC_2212637.JPG,85.0,malignant,melanoma,IP_9093111,male,1023
+ISIC_1346627.JPG,50.0,malignant,melanoma,IP_0682714,female,1024
+ISIC_8987984.JPG,50.0,malignant,melanoma,IP_0682714,female,1025
+ISIC_5059671.JPG,85.0,malignant,melanoma,IP_0325006,female,1026
+ISIC_2211948.JPG,85.0,malignant,melanoma,IP_0325006,female,1027
+ISIC_1135829.JPG,70.0,malignant,melanoma,IP_4216830,female,1028
+ISIC_5033005.JPG,70.0,malignant,melanoma,IP_4216830,female,1029
+ISIC_9486550.JPG,70.0,malignant,melanoma,IP_4216830,female,1030
+ISIC_6315176.JPG,70.0,malignant,melanoma,IP_4216830,female,1031
+ISIC_1000675.JPG,80.0,malignant,melanoma,IP_6640998,female,1032
+ISIC_5610304.JPG,80.0,malignant,melanoma,IP_6640998,female,1033
+ISIC_3381026.JPG,80.0,malignant,melanoma,IP_6640998,female,1034
+ISIC_2277714.JPG,80.0,malignant,melanoma,IP_6640998,female,1035
+ISIC_4082554.JPG,80.0,malignant,melanoma,IP_5892304,male,1036
+ISIC_1816965.JPG,80.0,malignant,melanoma,IP_5892304,male,1037
+ISIC_4407852.JPG,80.0,malignant,melanoma,IP_5892304,male,1038
+ISIC_7931985.JPG,85.0,malignant,melanoma,IP_4704077,female,1039
+ISIC_7231071.JPG,75.0,malignant,melanoma,IP_0093557,female,1040
+ISIC_5481480.JPG,75.0,malignant,melanoma,IP_0093557,female,1041
+ISIC_1642069.JPG,65.0,malignant,melanoma,IP_8631699,female,1042
+ISIC_2070728.JPG,50.0,malignant,melanoma,IP_9516151,male,1043
+ISIC_3311204.JPG,60.0,malignant,melanoma,IP_7362744,male,1044
+ISIC_7465137.JPG,60.0,malignant,melanoma,IP_7362744,male,1045
+ISIC_4661821.JPG,70.0,malignant,melanoma,IP_4626612,male,1046
+ISIC_4719387.JPG,70.0,malignant,melanoma,IP_4626612,male,1047
+ISIC_5081865.JPG,50.0,malignant,melanoma,IP_3418123,male,1048
+ISIC_0625744.JPG,50.0,malignant,melanoma,IP_3418123,male,1049
+ISIC_3299133.JPG,70.0,malignant,melanoma,IP_5138682,male,1050
+ISIC_3518630.JPG,70.0,malignant,melanoma,IP_5138682,male,1051
+ISIC_8664178.JPG,35.0,malignant,melanoma,IP_9393377,female,1052
+ISIC_0206756.JPG,35.0,malignant,melanoma,IP_9393377,female,1053
+ISIC_5836857.JPG,75.0,malignant,melanoma,IP_2359644,male,1054
+ISIC_9600064.JPG,75.0,malignant,melanoma,IP_2359644,male,1055
+ISIC_5024302.JPG,75.0,malignant,melanoma,IP_2359644,male,1056
+ISIC_7261723.JPG,75.0,malignant,melanoma,IP_4790522,female,1057
+ISIC_0959325.JPG,75.0,malignant,melanoma,IP_4790522,female,1058
+ISIC_1482223.JPG,60.0,malignant,melanoma,IP_9079253,male,1059
+ISIC_7317801.JPG,60.0,malignant,melanoma,IP_9079253,male,1060
+ISIC_1791643.JPG,75.0,malignant,melanoma,IP_5505844,female,1061
+ISIC_7085235.JPG,40.0,malignant,melanoma,IP_0159171,male,1062
+ISIC_4214029.JPG,75.0,malignant,melanoma,IP_0545294,male,1063
+ISIC_5612133.JPG,75.0,malignant,melanoma,IP_0545294,male,1064
+ISIC_1000616.JPG,40.0,malignant,melanoma,IP_3028994,male,1065
+ISIC_9097641.JPG,75.0,malignant,melanoma,IP_3580447,male,1066
+ISIC_4319626.JPG,75.0,malignant,melanoma,IP_3580447,male,1067
+ISIC_1634408.JPG,80.0,malignant,melanoma,IP_6555777,female,1068
+ISIC_8157239.JPG,80.0,malignant,melanoma,IP_6555777,female,1069
+ISIC_3491406.JPG,80.0,malignant,melanoma,IP_6555777,female,1070
+ISIC_0799972.JPG,80.0,malignant,melanoma,IP_6555777,female,1071
+ISIC_2362051.JPG,80.0,malignant,melanoma,IP_6555777,female,1072
+ISIC_4079825.JPG,80.0,malignant,melanoma,IP_1221322,male,1073
+ISIC_3176105.JPG,80.0,malignant,melanoma,IP_1221322,male,1074
+ISIC_7239902.JPG,40.0,malignant,melanoma,IP_7014123,female,1075
+ISIC_6241688.JPG,70.0,malignant,melanoma,IP_3682931,male,1076
+ISIC_3891136.JPG,70.0,malignant,melanoma,IP_3682931,male,1077
+ISIC_3971184.JPG,45.0,malignant,melanoma,IP_6754451,male,1078
+ISIC_2574924.JPG,45.0,malignant,melanoma,IP_6754451,male,1079
+ISIC_2763265.JPG,75.0,malignant,melanoma,IP_9355646,male,1080
+ISIC_4762072.JPG,85.0,malignant,melanoma,IP_7442897,female,1081
+ISIC_7338502.JPG,85.0,malignant,melanoma,IP_7442897,female,1082
+ISIC_6015979.JPG,80.0,malignant,melanoma,IP_3150219,male,1083
+ISIC_2857128.JPG,80.0,malignant,melanoma,IP_3150219,male,1084
+ISIC_8570943.JPG,65.0,malignant,melanoma,IP_3235188,female,1085
+ISIC_2079571.JPG,65.0,malignant,melanoma,IP_3235188,female,1086
+ISIC_0255566.JPG,65.0,malignant,melanoma,IP_5230560,female,1087
+ISIC_1317893.JPG,65.0,malignant,melanoma,IP_5230560,female,1088
+ISIC_8767311.JPG,70.0,malignant,melanoma,IP_0031063,female,1089
+ISIC_0789191.JPG,70.0,malignant,melanoma,IP_0031063,female,1090
+ISIC_7360494.JPG,75.0,malignant,melanoma,IP_7559190,male,1091
+ISIC_3598192.JPG,75.0,malignant,melanoma,IP_7559190,male,1092
+ISIC_3440320.JPG,55.0,malignant,melanoma,IP_2346299,female,1093
+ISIC_6315203.JPG,85.0,malignant,melanoma,IP_1117498,male,1094
+ISIC_0168716.JPG,85.0,malignant,melanoma,IP_1117498,male,1095
+ISIC_4212047.JPG,85.0,malignant,melanoma,IP_1117498,male,1096
+ISIC_1047011.JPG,85.0,malignant,melanoma,IP_1117498,male,1097
+ISIC_0116640.JPG,80.0,malignant,melanoma,IP_7526334,female,1098
+ISIC_1301476.JPG,80.0,malignant,melanoma,IP_7526334,female,1099
+ISIC_8738680.JPG,75.0,malignant,melanoma,IP_1561363,female,1100
+ISIC_3110126.JPG,75.0,malignant,melanoma,IP_1561363,female,1101
+ISIC_4205538.JPG,80.0,malignant,melanoma,IP_4291496,male,1102
+ISIC_7993345.JPG,80.0,malignant,melanoma,IP_4291496,male,1103
+ISIC_5086721.JPG,75.0,malignant,melanoma,IP_7034445,female,1104
+ISIC_7824315.JPG,85.0,malignant,melanoma,IP_1081239,male,1105
+ISIC_3079785.JPG,45.0,benign,nevus,IP_4906546,male,1106
+ISIC_3130146.JPG,75.0,benign,nevus,IP_5143517,male,1107
+ISIC_8995601.JPG,30.0,benign,nevus,IP_8411585,male,1108
+ISIC_8810984.JPG,50.0,benign,nevus,IP_9189981,female,1109
+ISIC_7105580.JPG,50.0,benign,nevus,IP_9189981,female,1110
+ISIC_6231941.JPG,50.0,benign,nevus,IP_9189981,female,1111
+ISIC_5583449.JPG,35.0,benign,nevus,IP_3536249,female,1112
+ISIC_9968790.JPG,80.0,benign,nevus,IP_7670614,female,1113
+ISIC_1195906.JPG,80.0,benign,nevus,IP_7670614,female,1114
+ISIC_4875964.JPG,70.0,benign,nevus,IP_5091395,male,1115
+ISIC_6426979.JPG,70.0,benign,nevus,IP_5091395,male,1116
+ISIC_8229257.JPG,45.0,benign,nevus,IP_9096125,female,1117
+ISIC_1541229.JPG,45.0,benign,nevus,IP_2292214,female,1118
+ISIC_6925301.JPG,30.0,benign,nevus,IP_9935521,male,1119
+ISIC_0115851.JPG,30.0,benign,nevus,IP_9935521,male,1120
+ISIC_5007626.JPG,35.0,benign,nevus,IP_6728907,male,1121
+ISIC_8150058.JPG,35.0,benign,nevus,IP_6728907,male,1122
+ISIC_1816574.JPG,35.0,benign,nevus,IP_6728907,male,1123
+ISIC_3597597.JPG,35.0,benign,nevus,IP_6728907,male,1124
+ISIC_9874172.JPG,55.0,benign,nevus,IP_7358226,female,1125
+ISIC_7910779.JPG,70.0,benign,nevus,IP_5049519,female,1126
+ISIC_0792800.JPG,55.0,benign,nevus,IP_6661147,male,1127
+ISIC_0426193.JPG,45.0,benign,nevus,IP_9694153,female,1128
+ISIC_3139747.JPG,40.0,benign,nevus,IP_4336720,female,1129
+ISIC_8904408.JPG,55.0,benign,nevus,IP_9947705,female,1130
+ISIC_3894866.JPG,55.0,benign,nevus,IP_9947705,female,1131
+ISIC_4711209.JPG,45.0,benign,nevus,IP_8033847,female,1132
+ISIC_2685699.JPG,50.0,benign,nevus,IP_1942334,female,1133
+ISIC_1962816.JPG,50.0,benign,nevus,IP_1942334,female,1134
+ISIC_3885770.JPG,,benign,nevus,IP_1599385,male,1135
+ISIC_7151644.JPG,60.0,benign,nevus,IP_4567280,female,1136
+ISIC_4976736.JPG,60.0,benign,nevus,IP_4567280,female,1137
+ISIC_0929319.JPG,65.0,benign,nevus,IP_8631699,female,1138
+ISIC_8707120.JPG,60.0,benign,nevus,IP_6328281,female,1139
+ISIC_4343221.JPG,60.0,benign,nevus,IP_6328281,female,1140
+ISIC_6450459.JPG,25.0,benign,nevus,IP_6566825,female,1141
+ISIC_7663270.JPG,25.0,benign,nevus,IP_6566825,female,1142
+ISIC_6415252.JPG,40.0,benign,nevus,IP_3028994,male,1143
+ISIC_2606092.JPG,40.0,benign,nevus,IP_3028994,male,1144
+ISIC_3716776.JPG,45.0,benign,nevus,IP_6959152,female,1145
+ISIC_5618299.JPG,45.0,benign,nevus,IP_6959152,female,1146
+ISIC_3377796.JPG,25.0,benign,nevus,IP_8999577,male,1147
+ISIC_8781042.JPG,70.0,benign,nevus,IP_3682931,male,1148
+ISIC_4627848.JPG,70.0,benign,nevus,IP_3682931,male,1149
+ISIC_9497941.JPG,70.0,benign,nevus,IP_3682931,male,1150
+ISIC_2602043.JPG,70.0,benign,nevus,IP_3682931,male,1151
+ISIC_8544975.JPG,35.0,benign,nevus,IP_3852191,female,1152
+ISIC_6572032.JPG,35.0,benign,nevus,IP_2521894,female,1153
+ISIC_7534765.JPG,55.0,benign,nevus,IP_3426045,female,1154
+ISIC_9445352.JPG,55.0,benign,nevus,IP_3426045,female,1155
+ISIC_5279645.JPG,50.0,benign,nevus,IP_9503214,female,1156
+ISIC_5272415.JPG,50.0,benign,nevus,IP_9503214,female,1157
+ISIC_8668169.JPG,50.0,benign,nevus,IP_9503214,female,1158
+ISIC_2408370.JPG,50.0,benign,nevus,IP_9503214,female,1159
+ISIC_0772328.JPG,55.0,benign,nevus,IP_3426045,female,1160
+ISIC_9378991.JPG,55.0,benign,nevus,IP_6003393,female,1161
+ISIC_1596920.JPG,55.0,benign,nevus,IP_6003393,female,1162
+ISIC_4207602.JPG,55.0,benign,nevus,IP_3426045,female,1163
+ISIC_9701230.JPG,45.0,benign,nevus,IP_8779056,female,1164
+ISIC_0234964.JPG,45.0,benign,nevus,IP_8779056,female,1165
+ISIC_2270337.JPG,55.0,benign,nevus,IP_4966888,male,1166
+ISIC_5992988.JPG,70.0,benign,nevus,IP_4891909,female,1167
+ISIC_0517734.JPG,70.0,benign,nevus,IP_4891909,female,1168
+ISIC_3639272.JPG,55.0,benign,nevus,IP_4966888,male,1169
+ISIC_2000497.JPG,65.0,benign,nevus,IP_8641208,female,1170
+ISIC_4906990.JPG,65.0,benign,nevus,IP_8641208,female,1171
+ISIC_4036953.JPG,70.0,benign,nevus,IP_0031063,female,1172
+ISIC_4217986.JPG,70.0,benign,nevus,IP_0031063,female,1173
+ISIC_0425007.JPG,65.0,benign,nevus,IP_8641208,female,1174
+ISIC_2400793.JPG,70.0,benign,nevus,IP_0031063,female,1175
+ISIC_3241563.JPG,70.0,benign,nevus,IP_0031063,female,1176
+ISIC_1735952.JPG,70.0,benign,nevus,IP_0031063,female,1177
+ISIC_7091639.JPG,70.0,benign,nevus,IP_0031063,female,1178
+ISIC_8201369.JPG,75.0,benign,nevus,IP_9355646,male,1179
+ISIC_7330612.JPG,65.0,benign,nevus,IP_8641208,female,1180
+ISIC_9416204.JPG,65.0,benign,nevus,IP_8641208,female,1181
+ISIC_1306256.JPG,80.0,benign,nevus,IP_2118132,male,1182
+ISIC_7547877.JPG,80.0,benign,nevus,IP_2118132,male,1183
+ISIC_7041400.JPG,65.0,benign,nevus,IP_8641208,female,1184
+ISIC_9353417.JPG,70.0,benign,nevus,IP_0276872,male,1185
+ISIC_7770086.JPG,70.0,benign,nevus,IP_0276872,male,1186
+ISIC_8673390.JPG,65.0,benign,nevus,IP_0207220,female,1187
+ISIC_9882427.JPG,80.0,benign,nevus,IP_6558273,male,1188
+ISIC_0993014.JPG,80.0,benign,nevus,IP_6558273,male,1189
+ISIC_9082062.JPG,80.0,benign,nevus,IP_6558273,male,1190
+ISIC_0588796.JPG,80.0,benign,nevus,IP_6558273,male,1191
+ISIC_9513630.JPG,45.0,benign,nevus,IP_2413128,male,1192
+ISIC_4679083.JPG,45.0,benign,nevus,IP_2413128,male,1193
+ISIC_3019909.JPG,75.0,benign,nevus,IP_5527482,male,1194
+ISIC_7388524.JPG,75.0,benign,nevus,IP_5527482,male,1195
+ISIC_3951375.JPG,30.0,benign,nevus,IP_4297168,female,1196
+ISIC_8614156.JPG,50.0,benign,nevus,IP_2385814,female,1197
+ISIC_9573206.JPG,75.0,benign,nevus,IP_9355646,male,1198
+ISIC_3906318.JPG,50.0,benign,nevus,IP_0292037,male,1199
+ISIC_0644328.JPG,30.0,benign,nevus,IP_0232163,male,1200
+ISIC_1707031.JPG,30.0,benign,nevus,IP_0232163,male,1201
+ISIC_1383624.JPG,30.0,benign,nevus,IP_0232163,male,1202
+ISIC_8852229.JPG,30.0,benign,nevus,IP_0232163,male,1203
+ISIC_8413624.JPG,30.0,benign,nevus,IP_0232163,male,1204
+ISIC_5702387.JPG,30.0,benign,nevus,IP_0232163,male,1205
+ISIC_9129115.JPG,75.0,benign,actinic keratosis,IP_8947694,female,1206
+ISIC_4695565.JPG,75.0,benign,actinic keratosis,IP_8947694,female,1207
+ISIC_5749049.JPG,65.0,benign,actinic keratosis,IP_4744338,female,1208
+ISIC_4407081.JPG,65.0,benign,actinic keratosis,IP_4744338,female,1209
+ISIC_6803155.JPG,70.0,benign,actinic keratosis,IP_5091395,male,1210
+ISIC_6037786.JPG,55.0,benign,actinic keratosis,IP_6819963,female,1211
+ISIC_5733934.JPG,75.0,benign,actinic keratosis,IP_1549548,male,1212
+ISIC_4263601.JPG,75.0,benign,actinic keratosis,IP_1549548,male,1213
+ISIC_1687088.JPG,70.0,benign,actinic keratosis,IP_7923120,male,1214
+ISIC_6950870.JPG,70.0,benign,actinic keratosis,IP_7923120,male,1215
+ISIC_0721601.JPG,70.0,benign,actinic keratosis,IP_1612316,female,1216
+ISIC_8459589.JPG,70.0,benign,actinic keratosis,IP_1612316,female,1217
+ISIC_9997367.JPG,70.0,benign,actinic keratosis,IP_2692251,female,1218
+ISIC_8236269.JPG,70.0,benign,actinic keratosis,IP_2692251,female,1219
+ISIC_6341872.JPG,65.0,benign,actinic keratosis,IP_3404622,male,1220
+ISIC_4817412.JPG,65.0,benign,actinic keratosis,IP_3404622,male,1221
+ISIC_7812886.JPG,70.0,benign,actinic keratosis,IP_3682931,male,1222
+ISIC_5113624.JPG,70.0,benign,actinic keratosis,IP_3682931,male,1223
+ISIC_4596148.JPG,75.0,benign,actinic keratosis,IP_3060715,male,1224
+ISIC_2456191.JPG,75.0,benign,actinic keratosis,IP_3060715,male,1225
+ISIC_7964849.JPG,80.0,benign,actinic keratosis,IP_1344764,female,1226
+ISIC_2696751.JPG,80.0,benign,actinic keratosis,IP_1344764,female,1227
+ISIC_6614811.JPG,60.0,benign,actinic keratosis,IP_8693311,male,1228
+ISIC_3531035.JPG,60.0,benign,actinic keratosis,IP_8693311,male,1229
+ISIC_1773269.JPG,70.0,benign,actinic keratosis,IP_6005497,female,1230
+ISIC_4888155.JPG,55.0,benign,actinic keratosis,IP_2208139,female,1231
+ISIC_1061847.JPG,55.0,benign,actinic keratosis,IP_2208139,female,1232
+ISIC_3114203.JPG,65.0,benign,actinic keratosis,IP_7256360,male,1233
+ISIC_5290918.JPG,65.0,benign,actinic keratosis,IP_7256360,male,1234
+ISIC_8502375.JPG,55.0,benign,actinic keratosis,IP_8277789,male,1235
+ISIC_4999508.JPG,75.0,benign,actinic keratosis,IP_4932731,male,1236
+ISIC_8941944.JPG,75.0,benign,actinic keratosis,IP_4932731,male,1237
+ISIC_9999251.JPG,65.0,benign,actinic keratosis,IP_3975331,female,1238
+ISIC_4047069.JPG,75.0,benign,actinic keratosis,IP_6904980,female,1239
+ISIC_3304758.JPG,75.0,benign,actinic keratosis,IP_4772694,female,1240
+ISIC_1714225.JPG,75.0,benign,actinic keratosis,IP_6621115,female,1241
+ISIC_2596471.JPG,75.0,benign,actinic keratosis,IP_5722309,male,1242
+ISIC_7199177.JPG,75.0,benign,actinic keratosis,IP_5722309,male,1243
+ISIC_3969664.JPG,85.0,benign,actinic keratosis,IP_2650374,male,1244
+ISIC_8822408.JPG,85.0,benign,actinic keratosis,IP_2650374,male,1245
+ISIC_4564422.JPG,85.0,benign,actinic keratosis,IP_2650374,male,1246
+ISIC_4893808.JPG,85.0,benign,actinic keratosis,IP_2650374,male,1247
+ISIC_1349417.JPG,85.0,benign,actinic keratosis,IP_2650374,male,1248
+ISIC_8649181.JPG,70.0,benign,actinic keratosis,IP_2538639,male,1249
+ISIC_5008132.JPG,70.0,benign,actinic keratosis,IP_2538639,male,1250
+ISIC_1096866.JPG,70.0,benign,actinic keratosis,IP_2538639,male,1251
+ISIC_9892170.JPG,70.0,benign,actinic keratosis,IP_2538639,male,1252
+ISIC_8283429.JPG,55.0,benign,actinic keratosis,IP_7506563,male,1253
+ISIC_0928255.JPG,40.0,benign,actinic keratosis,IP_1671091,female,1254
+ISIC_0169895.JPG,85.0,benign,actinic keratosis,IP_4683624,male,1255
+ISIC_4146888.JPG,75.0,benign,actinic keratosis,IP_6515463,male,1256
+ISIC_5375398.JPG,65.0,benign,actinic keratosis,IP_5924646,female,1257
+ISIC_4690178.JPG,70.0,benign,actinic keratosis,IP_5105492,female,1258
+ISIC_8219918.JPG,75.0,benign,actinic keratosis,IP_1069141,female,1259
+ISIC_1817773.JPG,75.0,benign,actinic keratosis,IP_1069141,female,1260
+ISIC_6529148.JPG,80.0,benign,actinic keratosis,IP_7285817,male,1261
+ISIC_9389788.JPG,75.0,benign,actinic keratosis,IP_5349935,female,1262
+ISIC_4038015.JPG,85.0,benign,actinic keratosis,IP_7772101,female,1263
+ISIC_4292551.JPG,,benign,actinic keratosis,IP_1801534,female,1264
+ISIC_2060578.JPG,75.0,benign,actinic keratosis,IP_3753936,female,1265
+ISIC_0973304.JPG,55.0,benign,actinic keratosis,IP_5625034,female,1266
+ISIC_9323828.JPG,55.0,benign,actinic keratosis,IP_5625034,female,1267
+ISIC_9314666.JPG,55.0,benign,actinic keratosis,IP_7048742,female,1268
+ISIC_6190427.JPG,75.0,benign,actinic keratosis,IP_5789947,female,1269
+ISIC_9810784.JPG,55.0,benign,actinic keratosis,IP_3372776,male,1270
+ISIC_5649739.JPG,75.0,benign,actinic keratosis,IP_1795359,male,1271
+ISIC_4470346.JPG,75.0,benign,actinic keratosis,IP_7974093,female,1272
+ISIC_9595615.JPG,85.0,benign,actinic keratosis,IP_4245895,male,1273
+ISIC_3685033.JPG,65.0,benign,actinic keratosis,IP_7817060,female,1274
+ISIC_7482924.JPG,75.0,benign,actinic keratosis,IP_6065743,male,1275
+ISIC_7021797.JPG,80.0,benign,actinic keratosis,IP_3747807,female,1276
+ISIC_3305055.JPG,75.0,benign,actinic keratosis,IP_9485229,male,1277
+ISIC_5314945.JPG,80.0,benign,actinic keratosis,IP_0933539,male,1278
+ISIC_1136731.JPG,70.0,benign,actinic keratosis,IP_7717848,female,1279
+ISIC_0773886.JPG,70.0,benign,actinic keratosis,IP_6575300,male,1280
+ISIC_4854995.JPG,55.0,benign,actinic keratosis,IP_3039884,female,1281
+ISIC_7052280.JPG,55.0,benign,actinic keratosis,IP_3039884,female,1282
+ISIC_6434212.JPG,80.0,benign,actinic keratosis,IP_5906253,male,1283
+ISIC_2829582.JPG,75.0,benign,actinic keratosis,IP_7022486,male,1284
+ISIC_0639571.JPG,80.0,benign,actinic keratosis,IP_9712745,male,1285
+ISIC_7783047.JPG,50.0,benign,actinic keratosis,IP_6118671,female,1286
+ISIC_3568067.JPG,75.0,benign,actinic keratosis,IP_2823201,female,1287
+ISIC_6948176.JPG,60.0,benign,actinic keratosis,,female,1288
+ISIC_4878461.JPG,70.0,benign,actinic keratosis,,female,1289
+ISIC_5685440.JPG,80.0,benign,actinic keratosis,,female,1290
+ISIC_8892662.JPG,65.0,benign,actinic keratosis,,female,1291
+ISIC_6065363.JPG,50.0,benign,actinic keratosis,,female,1292
+ISIC_3943279.JPG,65.0,benign,actinic keratosis,,male,1293
+ISIC_4247737.JPG,70.0,benign,actinic keratosis,,male,1294
+ISIC_9957272.JPG,80.0,benign,actinic keratosis,,female,1295
+ISIC_5689175.JPG,60.0,benign,actinic keratosis,,male,1296
+ISIC_1241834.JPG,70.0,benign,actinic keratosis,,male,1297
+ISIC_2246574.JPG,60.0,benign,actinic keratosis,,male,1298
+ISIC_8939957.JPG,65.0,benign,actinic keratosis,,female,1299
+ISIC_2365013.JPG,65.0,indeterminate,actinic keratosis,,female,1300
+ISIC_0717152.JPG,75.0,benign,actinic keratosis,,male,1301
+ISIC_1832538.JPG,70.0,benign,actinic keratosis,,female,1302
+ISIC_7341225.JPG,65.0,benign,actinic keratosis,,female,1303
+ISIC_6342190.JPG,85.0,benign,actinic keratosis,,male,1304
+ISIC_2099850.JPG,70.0,benign,actinic keratosis,,female,1305
